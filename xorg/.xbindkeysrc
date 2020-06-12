@@ -1,0 +1,26 @@
+#keybind config
+
+
+# mute micrphone recursive!
+"pacmd list-sources | grep -oP 'index: \d+' | awk '{ print $2 }' | xargs -I{} pactl set-source-mute {} toggle &&"
+KP_End
+
+# rofi application loancher
+"rofi -show drun -show-icons -matching fuzzy -auto-select -drun-match-fields, name, generic -m -5 -lines 12 -width 70 -theme Monokai"
+Mod4+grave
+
+#multitasker
+"rofi -show window -theme Monokai -lines 10 -width 70 -show-icons -matching glob -async-pre-read 25 -auto-select -m -5 -threads 0"
+Mod4+w
+
+#terminal spawn
+"urxvt --geometry 100+100 || xfce4-terminal --geometry 100+100"
+Mod4+Return
+
+#lauch pulseaudio controller
+"pidof pavucontrol >/dev/null ; [[ $? -ne 0 ]] && pavucontrol &"
+KP_Down
+
+#lauch file explorer
+"pidof spacefm >/dev/null ; [[ $? -ne 0 ]] && spacefm &"
+Mod4+f

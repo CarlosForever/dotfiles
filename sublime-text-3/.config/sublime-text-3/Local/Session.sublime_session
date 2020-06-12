@@ -1,0 +1,2452 @@
+{
+	"folder_history":
+	[
+		"/home/user/Downloads/cancer/Starry night",
+		"/home/user/new_dwm",
+		"/home/user/patches",
+		"/home/user/dwm",
+		"/home/user/Desktop/cloud_client",
+		"/home/user/Discord/client-bots",
+		"/home/user/Downloads/cancer/Botnets-supply/botnets-master/VirusPack/agobot3-priv",
+		"/home/user/Discord/client-bots/cloud_client",
+		"/home/user/Discord/client-bots/001",
+		"/home/user/Desktop/client_bot",
+		"/home/user/Desktop/gui-selfbot/client_bot",
+		"/home/user/Desktop/gui-selfbot",
+		"/mnt/veracrypt1/dev/second",
+		"/mnt/veracrypt1/dev/current",
+		"/home/user/Downloads/Mirai-Source-Code-master/Mirai-Source-Code-master/mirai/bot",
+		"/mnt/veracrypt1/dev",
+		"/mnt/veracrypt1/malware",
+		"/mnt/veracrypt1/malware/dev/loader",
+		"/mnt/veracrypt1/malware/dev/Riley",
+		"/home/user/Desktop/loader",
+		"/home/user/Downloads/Mirai-Source-Code-master/Mirai-Source-Code-master/loader",
+		"/home/user/projects/stui/Mirai-Source-Code-master/bot",
+		"/home/user/Desktop/Riley",
+		"/home/user/Desktop/Riley/bot",
+		"/home/user/Desktop/Riley/testing",
+		"/home/user/Downloads/Corona(1)/Corona/loader/src",
+		"/home/user/Downloads/sefa/bot",
+		"/home/user/Desktop/chinchilla",
+		"/home/user/Downloads/chinchilla/chinchilla",
+		"/home/user/Desktop/bot",
+		"/home/user/projects/stui/Mirai-Source-Code-master",
+		"/home/user/Desktop/bot3",
+		"/home/user/Desktop/bot2",
+		"/home/user/Desktop/discord_tokengen",
+		"/home/user/Downloads/cnc/cnc",
+		"/home/user/Discord/client-bots/002",
+		"/home/user/envs/dapi/lib/python3.6/site-packages/requests",
+		"/home/user/envs/dapi/lib/python3.6/site-packages/discord",
+		"/usr/local/lib/python3.6/site-packages/discord",
+		"/usr/local/lib/python3.6/multiprocessing",
+		"/home/user/Discord/client-bots/003",
+		"/home/user/projects/stui/bot",
+		"/home/user/projects/stui/mirai-cnc",
+		"/home/user/projects/stui/python-cnc",
+		"/home/user/projects/stui/python-cnc]",
+		"/home/user/projects/stui",
+		"/home/user/projects/token_gen.py"
+	],
+	"last_version": 3210,
+	"last_window_id": 59,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 0.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"M",
+						"Monokai"
+					],
+					[
+						"the",
+						"theme"
+					],
+					[
+						"a",
+						"auto-select"
+					],
+					[
+						"show",
+						"show-icons"
+					],
+					[
+						"re",
+						"ret"
+					],
+					[
+						"u",
+						"url"
+					],
+					[
+						"pa",
+						"payload"
+					],
+					[
+						"k",
+						"kwargs"
+					],
+					[
+						"BA",
+						"BASE_HEADER"
+					],
+					[
+						"ba",
+						"BASE_API"
+					],
+					[
+						"bot",
+						"bot_id"
+					],
+					[
+						"jso",
+						"json_read"
+					],
+					[
+						"m",
+						"mutal_guilds"
+					],
+					[
+						"p",
+						"prefetch_guilds"
+					],
+					[
+						"c",
+						"ctx"
+					],
+					[
+						"pri",
+						"profile"
+					],
+					[
+						"cha",
+						"channel"
+					],
+					[
+						"chan",
+						"ChannelEvents"
+					],
+					[
+						"de",
+						"destination"
+					],
+					[
+						"wri",
+						"write_json"
+					],
+					[
+						"ch",
+						"channel-id"
+					],
+					[
+						"con",
+						"context_id"
+					],
+					[
+						"json",
+						"json_data"
+					],
+					[
+						"sy",
+						"sync_t"
+					],
+					[
+						"di",
+						"dir_struct"
+					],
+					[
+						"dir",
+						"dir_struct"
+					],
+					[
+						"__",
+						"__file__"
+					],
+					[
+						"se",
+						"session"
+					],
+					[
+						"spli",
+						"split_read"
+					],
+					[
+						"s",
+						"sum"
+					],
+					[
+						"tre",
+						"threading"
+					],
+					[
+						"reg",
+						"region_changed"
+					],
+					[
+						"dt",
+						"data"
+					],
+					[
+						"cont",
+						"constructed"
+					],
+					[
+						"t",
+						"test_2"
+					],
+					[
+						"te",
+						"test_1"
+					],
+					[
+						"op",
+						"option_dict"
+					],
+					[
+						"in",
+						"initilize_sync"
+					],
+					[
+						"cloud",
+						"cloud_sync"
+					],
+					[
+						"rea",
+						"read_config"
+					],
+					[
+						"he",
+						"header_dict"
+					],
+					[
+						"en",
+						"encoded"
+					],
+					[
+						"enc",
+						"encrypted"
+					],
+					[
+						"d",
+						"dec"
+					],
+					[
+						"A",
+						"AESEncryptor"
+					],
+					[
+						"dec",
+						"decrypt"
+					],
+					[
+						"ci",
+						"cipherText"
+					],
+					[
+						"spl",
+						"split_ctx"
+					],
+					[
+						"co",
+						"commands"
+					],
+					[
+						"cmd",
+						"cmd_struct"
+					],
+					[
+						"split",
+						"split_ctx"
+					],
+					[
+						"com",
+						"consume_commands_file"
+					],
+					[
+						"def",
+						"defs\tMethod"
+					],
+					[
+						"set",
+						"setupUi"
+					],
+					[
+						"of",
+						"obf_memory"
+					],
+					[
+						"buff",
+						"buff_len"
+					],
+					[
+						"mem",
+						"memory_lock"
+					],
+					[
+						"arg",
+						"argv_0"
+					],
+					[
+						"buf",
+						"buff_len"
+					],
+					[
+						"bu",
+						"buffer"
+					],
+					[
+						"obf",
+						"obf_memory"
+					],
+					[
+						"ob",
+						"obf_memory"
+					],
+					[
+						"str",
+						"strlen"
+					],
+					[
+						"mute",
+						"mute-header"
+					],
+					[
+						"mu",
+						"mute_guild"
+					],
+					[
+						"head",
+						"header"
+					],
+					[
+						"gui",
+						"guilds"
+					],
+					[
+						"sen",
+						"send"
+					],
+					[
+						"static",
+						"stack_tick"
+					],
+					[
+						"sta",
+						"stack_tick"
+					],
+					[
+						"end",
+						"endif"
+					],
+					[
+						"fi",
+						"file-"
+					],
+					[
+						"f",
+						"file-"
+					],
+					[
+						"r",
+						"rfile"
+					],
+					[
+						"file",
+						"file-"
+					],
+					[
+						"close",
+						"closedir"
+					],
+					[
+						"root",
+						"rootpath"
+					],
+					[
+						"fle",
+						"file-"
+					],
+					[
+						"fie",
+						"file-"
+					],
+					[
+						"open",
+						"opendir"
+					],
+					[
+						"int",
+						"inittab_failsafe"
+					],
+					[
+						"cron",
+						"cron_dirs"
+					],
+					[
+						"path",
+						"path2"
+					],
+					[
+						"us",
+						"user_index"
+					],
+					[
+						"bash",
+						"bashrc_injection"
+					],
+					[
+						"user",
+						"users"
+					],
+					[
+						"ust",
+						"ustrcat"
+					],
+					[
+						"ustr",
+						"ustrlen"
+					],
+					[
+						"l",
+						"l_total"
+					],
+					[
+						"st",
+						"strcat"
+					],
+					[
+						"n",
+						"nread"
+					],
+					[
+						"read",
+						"read_buf"
+					],
+					[
+						"pro",
+						"proc_max"
+					],
+					[
+						"wa",
+						"watchdog"
+					],
+					[
+						"w",
+						"watchdog"
+					],
+					[
+						"wat",
+						"watchdog"
+					],
+					[
+						"watch",
+						"watchdog"
+					],
+					[
+						"time",
+						"timedout"
+					],
+					[
+						"start",
+						"start"
+					],
+					[
+						"cl",
+						"clock"
+					],
+					[
+						"pat",
+						"patch_times"
+					],
+					[
+						"tim",
+						"patch_times"
+					],
+					[
+						"gu",
+						"guilds"
+					],
+					[
+						"my",
+						"myspace"
+					],
+					[
+						"ma",
+						"max_pids"
+					],
+					[
+						"pr",
+						"process_overwatch"
+					],
+					[
+						"ret",
+						"retbuf"
+					],
+					[
+						"get",
+						"get_path"
+					],
+					[
+						"e",
+						"error"
+					],
+					[
+						"o",
+						"O_RDONLY"
+					],
+					[
+						"sttr",
+						"strcat"
+					],
+					[
+						"rd",
+						"rdpath"
+					],
+					[
+						"END",
+						"endif"
+					],
+					[
+						"si",
+						"size"
+					],
+					[
+						"un",
+						"uint8_t"
+					],
+					[
+						"uin",
+						"uint8_t"
+					],
+					[
+						"unit",
+						"uint8_t"
+					],
+					[
+						"uni",
+						"uint16_t"
+					],
+					[
+						"main",
+						"main_realpath"
+					],
+					[
+						"soc",
+						"socket_fd"
+					],
+					[
+						"deleted",
+						"deleted-bin"
+					],
+					[
+						"my_",
+						"my_name_space"
+					],
+					[
+						"ki",
+						"killer_pid"
+					],
+					[
+						"self",
+						"selfpath"
+					],
+					[
+						"ut",
+						"util_atoi"
+					],
+					[
+						"v",
+						"value"
+					],
+					[
+						"ste",
+						"strlen"
+					],
+					[
+						"pg",
+						"pgid2"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"json",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"prett",
+						"Pretty JSON: Validate"
+					],
+					[
+						"json val",
+						"Pretty JSON: Validate"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"pretty",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"pretyt",
+						"Pretty JSON: Validate"
+					],
+					[
+						"disable",
+						"Package Control: Disable Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"packa",
+						"Package Control: Remove Package"
+					],
+					[
+						"enable",
+						"Package Control: Enable Package"
+					],
+					[
+						"ipacka",
+						"Package Control: Disable Package"
+					],
+					[
+						"eddit",
+						"PackageDev: Edit Current Color Scheme"
+					],
+					[
+						"edit ",
+						"PackageDev: Edit Current Color Scheme"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/user/Downloads/cancer/Starry",
+				"/home/user/repositories/dwm/night",
+				"/home/user/Downloads/cancer/xbindkeysrc",
+				"/home/user/Downloads/dwm/autostart.sh",
+				"/home/user/.zshrc",
+				"/home/user/.dwm/autostart.sh",
+				"/home/user/patches/dwm-autostart-20161205-bb3bd6f.diff",
+				"/home/user/dwm/config.def.h",
+				"/home/user/dwm/dwm.c",
+				"/home/user/patches/dwm-cyclelayouts-20180524-6.2.diff",
+				"/home/user/patches/dwm-center-6.2.diff",
+				"/home/user/patches/dwm-gridmode-20170909-ceac8c9.diff",
+				"/home/user/Desktop/cloud_client/core/api/http_requests.py",
+				"/home/user/Desktop/cloud_client/core/events/event_dispatch.py",
+				"/home/user/Desktop/cloud_client/resources/guilds/348625208321507338/send.json",
+				"/home/user/.local/share/virtualenvs/cloud_client-RPD7Bb4U/lib/python3.6/site-packages/discord/http.py",
+				"/home/user/Desktop/cloud_client/config/config.json",
+				"/home/user/dwm/my_progress/config.def.h",
+				"/home/user/dwm/dev/config.h",
+				"/home/user/Desktop/test.py",
+				"/home/user/Desktop/cloud_client/core/api/__init__.py",
+				"/home/user/.local/share/virtualenvs/cloud_client-RPD7Bb4U/lib/python3.6/site-packages/discord/gateway.py",
+				"/usr/local/lib/python3.6/socket.py",
+				"/home/user/Desktop/cloud_client/core/events/events/direct_message.py",
+				"/home/user/Desktop/cloud_client/main.py",
+				"/home/user/Desktop/cloud_client/core/loggers/json_logger.py",
+				"/home/user/Desktop/cloud_client/resources/direct_messages/718380178350276618/send.json",
+				"/tmp/mozilla_user0/socketserver.py",
+				"/home/user/Discord/client-bots/001/core/events/events/someothers.py",
+				"/home/user/Discord/client-bots/001/core/loggers/attachment_logger.py",
+				"/home/user/Desktop/cloud_client/resources/direct_messages/718380178350276618/database/database-524774889081536533.json",
+				"/home/user/Desktop/cloud_client/resources/direct_messages/717417379725836308/send.json",
+				"/home/user/Desktop/cloud_client/resources/direct_messages/717417379725836308/database/runtime_history.json",
+				"/home/user/Discord/client-bots/001/core/events/events/group.py",
+				"/home/user/Desktop/cloud_client/resources/direct_messages/710822742915678208/send.json",
+				"/home/user/Desktop/cloud_client/resources/direct_messages/711029179402944644/send.json",
+				"/home/user/Discord/client-bots/001/core/events/events/direct_message.py",
+				"/home/user/Desktop/cloud_client/core/events/events/__init__.py",
+				"/home/user/Discord/client-bots/001/core/events/event_dispatch.py",
+				"/home/user/Discord/client-bots/001/core/loggers/json_logger.py",
+				"/home/user/Desktop/cloud_client/core/utils/cloud_sync.py",
+				"/home/user/Desktop/cloud_client/core/utils/tools.py",
+				"/home/user/Desktop/cloud_client/resources/groups/717692439992991834/send.json",
+				"/home/user/Desktop/cloud_client/resources/guilds/710521954729197649/send.json",
+				"/home/user/Desktop/cloud_client/core/loggers/__init__.py",
+				"/home/user/Discord/client-bots/cloud_client/main.py",
+				"/home/user/Discord/client-bots/cloud_client/core/events/event_dispatch.py",
+				"/home/user/Discord/client-bots/cloud_client/config/config.json",
+				"/home/user/Discord/client-bots/cloud_client/core/utils/cloud_sync.py",
+				"/home/user/Discord/client-bots/cloud_client/core/utils/test.py",
+				"/home/user/Desktop/sometest.py",
+				"/home/user/Discord/client-bots/cloud_client/core/utils/__init__.py",
+				"/home/user/Discord/client-bots/cloud_client/core/utils/tools.py",
+				"/home/user/Discord/client-bots/cloud_client/resources/direct_messages/owo.txt",
+				"/home/user/Desktop/phone_backup/stuff/Download/delete.py",
+				"/home/user/Higvalue/discord/client-bots/001/config/settings.json",
+				"/home/user/Desktop/stuff/discord_tokengen/main.py",
+				"/home/user/Higvalue/discord/client-bots/001/config/session_runtime.json",
+				"/home/user/Downloads/Telegram Desktop/discord_superuser.py",
+				"/mnt/veracrypt1/malware/linux/Maccas/Maccas/build.sh",
+				"/mnt/veracrypt1/discord/backup/friends/2020-05-25T00_47_01.037614-friends_backup.json",
+				"/mnt/veracrypt1/malware/linux/Maccas/Maccas/bot/killer.c",
+				"/home/user/Desktop/phone_backup/stuff/Download/downloads2/hakai_1-copy2/Shadohs_Hakai_bot/tt/killer.c",
+				"/home/user/Desktop/muteguilds.py",
+				"/mnt/veracrypt1/dev/current/core/main.c",
+				"/mnt/veracrypt1/dev/current/core/killer.c",
+				"/mnt/veracrypt1/dev/second/core/killer.c",
+				"/mnt/veracrypt1/dev/current/core/obfuscate.c",
+				"/home/user/Downloads/Cloudbot-copy2/Cloudbot/bot/killer.c",
+				"/home/user/Downloads/cancer/Okane/bot/killer.c",
+				"/home/user/Downloads/cancer/OwariV2/OwariV2/cnc/admin.go",
+				"/home/user/Downloads/cancer/OwariV2/OwariV2/build.sh",
+				"/home/user/Downloads/cancer/Owari/Owari/build.sh",
+				"/home/user/Downloads/cancer/Owari/Owari/bot/main.c",
+				"/home/user/Downloads/cancer/Owari/Owari/cnc/admin.go",
+				"/home/user/Downloads/cancer/Real_Owari/Real_Owari/Real Owari/cnc/admin.go",
+				"/home/user/Downloads/cancer/Real_Owari/Real_Owari/Real Owari/bot/main.c",
+				"/home/user/Downloads/cancer/STORM2/Storm-Net-master/build.sh",
+				"/home/user/Downloads/cancer/Botnets-supply/botnets-master/VirusPack/rBot v0.6.6 priv lsass/shellcode.cpp",
+				"/home/user/Desktop/stuff/guild_backup.json",
+				"/home/user/Downloads/Telegram Desktop/Valid.txt",
+				"/home/user/Downloads/Telegram Desktop/discord_superuser (3).py",
+				"/home/user/Discord/client-bots/cloud_client/config.json",
+				"/home/user/Discord/client-bots/001/main.py",
+				"/home/user/Discord/client-bots/cloud_client/resources/direct_messages",
+				"/home/user/Discord/client-bots/001/core/api/http_utils.py",
+				"/home/user/Discord/client-bots/cloud_client/core/utils/utility.py",
+				"/home/user/Discord/client-bots/001/core/utils/session.py",
+				"/home/user/Discord/client-bots/001/config/settings.json",
+				"/home/user/Desktop/aes_encrypt.py",
+				"/home/user/Desktop/botnet.txt",
+				"/home/user/Discord/client-bots/001/core/commander/processor.py",
+				"/home/user/Downloads/Mana_v4.1/Mana v4.1/installs.sh",
+				"/home/user/.config/discord/settings.json",
+				"/home/user/.config/discord/Preferences",
+				"/home/user/.config/discord/quotes.json",
+				"/home/user/.config/discord/Cookies",
+				"/home/user/.config/discord/0.0.10/modules/installed.json",
+				"/home/user/.config/discord/Code Cache/js/3855acb66aede2a7_0",
+				"/home/user/.config/discord/Session Storage/CURRENT",
+				"/home/user/.config/discord/Session Storage/000004.log",
+				"/home/user/.config/discord/Session Storage/LOG.old",
+				"/home/user/Discord/client-bots/001/config/commands.json",
+				"/tmp/mozilla_user0/index.html",
+				"/home/user/cross-compiler-project/uclibc/easypoint.py",
+				"/home/user/.xbindkeysrc",
+				"/home/user/Discord/client-bots/001/core/commander/__init__.py",
+				"/home/user/.config/sublime-text-3/Packages/User/Pretty JSON.sublime-settings",
+				"/home/user/Discord/client-bots/001/config/keywords.json",
+				"/home/user/Discord/client-bots/001/resources/guilds/656914325369520149/send.json",
+				"/home/user/Discord/client-bots/001/resources/guilds/712271892521811990/send.json",
+				"/home/user/Discord/client-bots/001/resources/direct_messages/711113905321279521/send.json",
+				"/home/user/Discord/client-bots/001/config/session_runtime.json",
+				"/home/user/Desktop/client_bot/core/events/main_events.py",
+				"/home/user/Desktop/gui-selfbot/client_bot/main.py",
+				"/home/user/Desktop/gui-selfbot/main.py",
+				"/home/user/Desktop/gui-selfbot/functions.py",
+				"/home/user/Desktop/gui-selfbot/client_ui.py",
+				"/home/user/Downloads/Cloudbot/Cloudbot/bot/killer.c",
+				"/home/user/.config/KShare/history",
+				"/home/user/Downloads/chinchilla/chinchilla/bot/encryption.c",
+				"/home/user/Downloads/chinchilla/chinchilla/bot/udp_methods.c",
+				"/home/user/Downloads/chinchilla/chinchilla/bot/attack.c",
+				"/home/user/Desktop/evenmorefucked",
+				"/home/user/Downloads/chinchilla/chinchilla/bot/encryption.h",
+				"/home/user/Downloads/chinchilla/chinchilla/bot/main.c",
+				"/home/user/Downloads/Cloudbot/Cloudbot/bot/main.h",
+				"/mnt/veracrypt1/dev/current/tools/enc.c"
+			],
+			"find":
+			{
+				"height": 31.0
+			},
+			"find_in_files":
+			{
+				"height": 136.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"scan",
+					" scan",
+					" scan(void)",
+					"run",
+					"auto",
+					"scan",
+					"iscentered",
+					"int iscentered",
+					"change_display",
+					"__session",
+					"method",
+					"guilds[",
+					"self.arg.",
+					"self.ctx",
+					" self.ctx"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"self.atribute[",
+					"self.kwargs['arg'].",
+					"self.kwargs['arg']",
+					"self.kwargs['ctx']"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 31.0
+			},
+			"input":
+			{
+				"height": 47.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 128.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"output.unsaved_changes":
+			{
+				"height": 128.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 58.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 261.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"M",
+						"Monokai"
+					],
+					[
+						"the",
+						"theme"
+					],
+					[
+						"a",
+						"auto-select"
+					],
+					[
+						"show",
+						"show-icons"
+					],
+					[
+						"re",
+						"ret"
+					],
+					[
+						"u",
+						"url"
+					],
+					[
+						"pa",
+						"payload"
+					],
+					[
+						"k",
+						"kwargs"
+					],
+					[
+						"BA",
+						"BASE_HEADER"
+					],
+					[
+						"ba",
+						"BASE_API"
+					],
+					[
+						"bot",
+						"bot_id"
+					],
+					[
+						"jso",
+						"json_read"
+					],
+					[
+						"m",
+						"mutal_guilds"
+					],
+					[
+						"p",
+						"prefetch_guilds"
+					],
+					[
+						"c",
+						"ctx"
+					],
+					[
+						"pri",
+						"profile"
+					],
+					[
+						"cha",
+						"channel"
+					],
+					[
+						"chan",
+						"ChannelEvents"
+					],
+					[
+						"de",
+						"destination"
+					],
+					[
+						"wri",
+						"write_json"
+					],
+					[
+						"ch",
+						"channel-id"
+					],
+					[
+						"con",
+						"context_id"
+					],
+					[
+						"json",
+						"json_data"
+					],
+					[
+						"sy",
+						"sync_t"
+					],
+					[
+						"di",
+						"dir_struct"
+					],
+					[
+						"dir",
+						"dir_struct"
+					],
+					[
+						"__",
+						"__file__"
+					],
+					[
+						"se",
+						"session"
+					],
+					[
+						"spli",
+						"split_read"
+					],
+					[
+						"s",
+						"sum"
+					],
+					[
+						"tre",
+						"threading"
+					],
+					[
+						"reg",
+						"region_changed"
+					],
+					[
+						"dt",
+						"data"
+					],
+					[
+						"cont",
+						"constructed"
+					],
+					[
+						"t",
+						"test_2"
+					],
+					[
+						"te",
+						"test_1"
+					],
+					[
+						"op",
+						"option_dict"
+					],
+					[
+						"in",
+						"initilize_sync"
+					],
+					[
+						"cloud",
+						"cloud_sync"
+					],
+					[
+						"rea",
+						"read_config"
+					],
+					[
+						"he",
+						"header_dict"
+					],
+					[
+						"en",
+						"encoded"
+					],
+					[
+						"enc",
+						"encrypted"
+					],
+					[
+						"d",
+						"dec"
+					],
+					[
+						"A",
+						"AESEncryptor"
+					],
+					[
+						"dec",
+						"decrypt"
+					],
+					[
+						"ci",
+						"cipherText"
+					],
+					[
+						"spl",
+						"split_ctx"
+					],
+					[
+						"co",
+						"commands"
+					],
+					[
+						"cmd",
+						"cmd_struct"
+					],
+					[
+						"split",
+						"split_ctx"
+					],
+					[
+						"com",
+						"consume_commands_file"
+					],
+					[
+						"def",
+						"defs\tMethod"
+					],
+					[
+						"set",
+						"setupUi"
+					],
+					[
+						"of",
+						"obf_memory"
+					],
+					[
+						"buff",
+						"buff_len"
+					],
+					[
+						"mem",
+						"memory_lock"
+					],
+					[
+						"arg",
+						"argv_0"
+					],
+					[
+						"buf",
+						"buff_len"
+					],
+					[
+						"bu",
+						"buffer"
+					],
+					[
+						"obf",
+						"obf_memory"
+					],
+					[
+						"ob",
+						"obf_memory"
+					],
+					[
+						"str",
+						"strlen"
+					],
+					[
+						"mute",
+						"mute-header"
+					],
+					[
+						"mu",
+						"mute_guild"
+					],
+					[
+						"head",
+						"header"
+					],
+					[
+						"gui",
+						"guilds"
+					],
+					[
+						"sen",
+						"send"
+					],
+					[
+						"static",
+						"stack_tick"
+					],
+					[
+						"sta",
+						"stack_tick"
+					],
+					[
+						"end",
+						"endif"
+					],
+					[
+						"fi",
+						"file-"
+					],
+					[
+						"f",
+						"file-"
+					],
+					[
+						"r",
+						"rfile"
+					],
+					[
+						"file",
+						"file-"
+					],
+					[
+						"close",
+						"closedir"
+					],
+					[
+						"root",
+						"rootpath"
+					],
+					[
+						"fle",
+						"file-"
+					],
+					[
+						"fie",
+						"file-"
+					],
+					[
+						"open",
+						"opendir"
+					],
+					[
+						"int",
+						"inittab_failsafe"
+					],
+					[
+						"cron",
+						"cron_dirs"
+					],
+					[
+						"path",
+						"path2"
+					],
+					[
+						"us",
+						"user_index"
+					],
+					[
+						"bash",
+						"bashrc_injection"
+					],
+					[
+						"user",
+						"users"
+					],
+					[
+						"ust",
+						"ustrcat"
+					],
+					[
+						"ustr",
+						"ustrlen"
+					],
+					[
+						"l",
+						"l_total"
+					],
+					[
+						"st",
+						"strcat"
+					],
+					[
+						"n",
+						"nread"
+					],
+					[
+						"read",
+						"read_buf"
+					],
+					[
+						"pro",
+						"proc_max"
+					],
+					[
+						"wa",
+						"watchdog"
+					],
+					[
+						"w",
+						"watchdog"
+					],
+					[
+						"wat",
+						"watchdog"
+					],
+					[
+						"watch",
+						"watchdog"
+					],
+					[
+						"time",
+						"timedout"
+					],
+					[
+						"start",
+						"start"
+					],
+					[
+						"cl",
+						"clock"
+					],
+					[
+						"pat",
+						"patch_times"
+					],
+					[
+						"tim",
+						"patch_times"
+					],
+					[
+						"gu",
+						"guilds"
+					],
+					[
+						"my",
+						"myspace"
+					],
+					[
+						"ma",
+						"max_pids"
+					],
+					[
+						"pr",
+						"process_overwatch"
+					],
+					[
+						"ret",
+						"retbuf"
+					],
+					[
+						"get",
+						"get_path"
+					],
+					[
+						"e",
+						"error"
+					],
+					[
+						"o",
+						"O_RDONLY"
+					],
+					[
+						"sttr",
+						"strcat"
+					],
+					[
+						"rd",
+						"rdpath"
+					],
+					[
+						"END",
+						"endif"
+					],
+					[
+						"si",
+						"size"
+					],
+					[
+						"un",
+						"uint8_t"
+					],
+					[
+						"uin",
+						"uint8_t"
+					],
+					[
+						"unit",
+						"uint8_t"
+					],
+					[
+						"uni",
+						"uint16_t"
+					],
+					[
+						"main",
+						"main_realpath"
+					],
+					[
+						"soc",
+						"socket_fd"
+					],
+					[
+						"deleted",
+						"deleted-bin"
+					],
+					[
+						"my_",
+						"my_name_space"
+					],
+					[
+						"ki",
+						"killer_pid"
+					],
+					[
+						"self",
+						"selfpath"
+					],
+					[
+						"ut",
+						"util_atoi"
+					],
+					[
+						"v",
+						"value"
+					],
+					[
+						"ste",
+						"strlen"
+					],
+					[
+						"pg",
+						"pgid2"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "/* See LICENSE file for copyright and license details. */\n\n/* appearance */\nstatic const unsigned int borderpx  = 1;        /* border pixel of windows */\nstatic const unsigned int snap      = 32;       /* snap pixel */\nstatic const int showbar            = 1;        /* 0 means no bar */\nstatic const int topbar             = 1;        /* 0 means bottom bar */\nstatic const char *fonts[]          = { \"monospace:size=10\" };\nstatic const char dmenufont[]       = \"monospace:size=10\";\nstatic const char col_gray1[]       = \"#222222\";\nstatic const char col_gray2[]       = \"#444444\";\nstatic const char col_gray3[]       = \"#bbbbbb\";\nstatic const char col_gray4[]       = \"#eeeeee\";\nstatic const char col_cyan[]        = \"#005577\";\nstatic const char col_linegreen[]   = \"#32CD32\";\n\n\nstatic const char *colors[][3]      = {\n    /*               fg         bg         border   */\n    [SchemeNorm] = { col_gray3, col_gray1, col_gray2 },\n    [SchemeSel]  = { col_gray4, col_cyan,  col_linegreen },\n};\n\n/* tagging */\nstatic const char *tags[] = { \"0\", \"1\", \"2\", \"3\", \"4\", \"5\", \"6\", \"7\", \"8\" };\n\nstatic const Rule rules[] = {\n    /* xprop(1):\n     *  WM_CLASS(STRING) = instance, class\n     *  WM_NAME(STRING) = title\n     */\n    /* class      instance    title       tags mask     isfloating   monitor */\n    { \"Gimp\",     NULL,       NULL,       0,            1,           -1 },\n    { \"Firefox\",  NULL,       NULL,       1 << 8,       0,           -1 },\n};\n\n/* layout(s) */\nstatic const float mfact     = 0.50; /* factor of master area size [0.05..0.95] */\nstatic const int nmaster     = 1;    /* number of clients in master area */\nstatic const int resizehints = 1;    /* 1 means respect size hints in tiled resizals */\n\nstatic const Layout layouts[] = {\n    /* symbol     arrange function */\n    { \"[]=\",      tile },    /* first entry is default */\n    { \"><>\",      NULL },    /* no layout function means floating behavior */\n    { \"[M]\",      monocle },\n};\n\n/* key definitions */\n#define MODKEY Mod4Mask\n#define TAGKEYS(KEY,TAG) \\\n    { MODKEY,                       KEY,      view,           {.ui = 1 << TAG} }, \\\n    { MODKEY|ControlMask,           KEY,      toggleview,     {.ui = 1 << TAG} }, \\\n    { MODKEY|ShiftMask,             KEY,      tag,            {.ui = 1 << TAG} }, \\\n    { MODKEY|ControlMask|ShiftMask, KEY,      toggletag,      {.ui = 1 << TAG} },\n\n/* helper for spawning shell commands in the pre dwm-5.0 fashion */\n#define SHCMD(cmd) { .v = (const char*[]){ \"/bin/sh\", \"-c\", cmd, NULL } }\n\n/* commands */\n/*\nstatic const char *rofi_run[] = {\n    \"rofi\",\n    \"-combi-modi\",\n    \"window,drun,ssh\",\n    \"-theme\", \"Monokai\",\n    \"-font\", \"hack 10\",\n    \"-show\", \"combi\",\n    \"-lines\", \"10\",\n    \"-width\", \"50\", NULL\n};\n*/\nstatic const char *rofi_run[] = {\n    \"rofi\",\n    \"-show\",\n    \"drun\",\n    \"-show-icons\",\n    \"-matching\",\n    \"fuzzy\",\n    \"-auto-select\",\n    \"-m\",\n    \"-5\",\n    \"-lines\",\n    \"12\",\n    \"-width\",\n    \"70\",\n    \"-theme\",\n    \"Monokai\",\n    NULL,\n};\n\nstatic char dmenumon[2] = \"0\"; /* component of dmenucmd, manipulated in spawn() */\nstatic const char *dmenucmd[] = { \"dmenu_run\", \"-m\", dmenumon, \"-fn\", dmenufont, \"-nb\", col_gray1, \"-nf\", col_gray3, \"-sb\", col_cyan, \"-sf\", col_gray4, NULL };\nstatic const char *termcmd[]  = { \"urxvt\", NULL };\n\nstatic Key keys[] = {\n    /* modifier                     key        function        argument */\n    { MODKEY,                       XK_r,      spawn,          {.v = rofi_run } },\n    { MODKEY,                       XK_Return, spawn,          {.v = termcmd } },\n    { MODKEY,                       XK_b,      togglebar,      {0} },\n    { MODKEY,                       XK_j,      focusstack,     {.i = +1 } },\n    { MODKEY,                       XK_k,      focusstack,     {.i = -1 } },\n    { MODKEY,                       XK_i,      incnmaster,     {.i = +1 } },\n    { MODKEY,                       XK_d,      incnmaster,     {.i = -1 } },\n    { MODKEY,                       XK_h,      setmfact,       {.f = -0.05} },\n    { MODKEY,                       XK_l,      setmfact,       {.f = +0.05} },\n    { MODKEY,                       XK_Return, zoom,           {0} },\n    { MODKEY,                       XK_Tab,    view,           {0} },\n    { MODKEY,                       XK_c,      killclient,     {0} },\n    { MODKEY,                       XK_t,      setlayout,      {.v = &layouts[0]} },\n    { MODKEY,                       XK_f,      setlayout,      {.v = &layouts[1]} },\n    { MODKEY,                       XK_m,      setlayout,      {.v = &layouts[2]} },\n    { MODKEY,                       XK_space,  setlayout,      {0} },\n    { MODKEY|ShiftMask,             XK_space,  togglefloating, {0} },\n    { MODKEY,                       XK_0,      view,           {.ui = ~0 } },\n    { MODKEY|ShiftMask,             XK_0,      tag,            {.ui = ~0 } },\n    { MODKEY,                       XK_comma,  focusmon,       {.i = -1 } },\n    { MODKEY,                       XK_period, focusmon,       {.i = +1 } },\n    { MODKEY|ShiftMask,             XK_comma,  tagmon,         {.i = -1 } },\n    { MODKEY|ShiftMask,             XK_period, tagmon,         {.i = +1 } },\n    TAGKEYS(                        XK_1,                      0)\n    TAGKEYS(                        XK_2,                      1)\n    TAGKEYS(                        XK_3,                      2)\n    TAGKEYS(                        XK_4,                      3)\n    TAGKEYS(                        XK_5,                      4)\n    TAGKEYS(                        XK_6,                      5)\n    TAGKEYS(                        XK_7,                      6)\n    TAGKEYS(                        XK_8,                      7)\n    TAGKEYS(                        XK_9,                      8)\n    { MODKEY|ShiftMask,             XK_q,      quit,           {0} },\n};\n\n/* button definitions */\n/* click can be ClkTagBar, ClkLtSymbol, ClkStatusText, ClkWinTitle, ClkClientWin, or ClkRootWin */\nstatic Button buttons[] = {\n    /* click                event mask      button          function        argument */\n    { ClkLtSymbol,          0,              Button1,        setlayout,      {0} },\n    { ClkLtSymbol,          0,              Button3,        setlayout,      {.v = &layouts[2]} },\n    { ClkWinTitle,          0,              Button2,        zoom,           {0} },\n    { ClkStatusText,        0,              Button2,        spawn,          {.v = termcmd } },\n    { ClkClientWin,         MODKEY,         Button1,        movemouse,      {0} },\n    { ClkClientWin,         MODKEY,         Button2,        togglefloating, {0} },\n    { ClkClientWin,         MODKEY,         Button3,        resizemouse,    {0} },\n    { ClkTagBar,            0,              Button1,        view,           {0} },\n    { ClkTagBar,            0,              Button3,        toggleview,     {0} },\n    { ClkTagBar,            MODKEY,         Button1,        tag,            {0} },\n    { ClkTagBar,            MODKEY,         Button3,        toggletag,      {0} },\n};\n\n",
+					"settings":
+					{
+						"buffer_size": 6999,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "git merge config -m config\ngit merge pertag -m pertag\ngit merge noborder -m noborder\ngit merge fakefullscreen -m fakefullscreen\ngit merge cyclelayouts -m cyclelayouts\ngit merge gridmode -m gridmode\ngit merge rotatestack -m rotatestack\ngit merge autostart -m autostart\n",
+					"settings":
+					{
+						"buffer_size": 268,
+						"line_ending": "Unix",
+						"name": "git merge config -m config"
+					}
+				},
+				{
+					"file": "/home/user/dwm/config.h",
+					"settings":
+					{
+						"buffer_size": 7461,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "/* See LICENSE file for copyright and license details. */\n\n/* appearance */\nstatic const unsigned int borderpx  = 1;        /* border pixel of windows */\nstatic const unsigned int snap      = 32;       /* snap pixel */\nstatic const int showbar            = 1;        /* 0 means no bar */\nstatic const int topbar             = 1;        /* 0 means bottom bar */\nstatic const char *fonts[]          = { \"monospace:size=10\" };\nstatic const char dmenufont[]       = \"monospace:size=10\";\nstatic const char col_gray1[]       = \"#222222\";\nstatic const char col_gray2[]       = \"#444444\";\nstatic const char col_gray3[]       = \"#bbbbbb\";\nstatic const char col_gray4[]       = \"#eeeeee\";\nstatic const char col_cyan[]        = \"#005577\";\nstatic const char col_linegreen[]   = \"#32CD32\";\n\n\nstatic const char *colors[][3]      = {\n    /*               fg         bg         border   */\n    [SchemeNorm] = { col_gray3, col_gray1, col_gray2 },\n    [SchemeSel]  = { col_gray4, col_cyan,  col_linegreen },\n};\n\n/* tagging */\nstatic const char *tags[] = { \"0\", \"1\", \"2\", \"3\", \"4\", \"5\", \"6\", \"7\", \"8\" };\n\nstatic const Rule rules[] = {\n    /* xprop(1):\n     *  WM_CLASS(STRING) = instance, class\n     *  WM_NAME(STRING) = title\n     */\n    /* class      instance    title       tags mask     isfloating   monitor */\n    { \"Gimp\",     NULL,       NULL,       0,            1,           -1 },\n    { \"Firefox\",  NULL,       NULL,       1 << 8,       0,           -1 },\n};\n\n/* layout(s) */\nstatic const float mfact     = 0.50; /* factor of master area size [0.05..0.95] */\nstatic const int nmaster     = 1;    /* number of clients in master area */\nstatic const int resizehints = 1;    /* 1 means respect size hints in tiled resizals */\n\n#include \"layouts.c\"\nstatic const Layout layouts[] = {\n    /* symbol     arrange function */\n    { \"[]=\",      tile },    /* first entry is default */\n    { \"><>\",      NULL },    /* no layout function means floating behavior */\n    { \"[M]\",      monocle },\n    { NULL,       NULL },\n    { \"HHH\",      grid },\n};\n\n/* key definitions */\n#define MODKEY Mod4Mask\n#define TAGKEYS(KEY,TAG) \\\n    { MODKEY,                       KEY,      view,           {.ui = 1 << TAG} }, \\\n    { MODKEY|ControlMask,           KEY,      toggleview,     {.ui = 1 << TAG} }, \\\n    { MODKEY|ShiftMask,             KEY,      tag,            {.ui = 1 << TAG} }, \\\n    { MODKEY|ControlMask|ShiftMask, KEY,      toggletag,      {.ui = 1 << TAG} },\n\n/* helper for spawning shell commands in the pre dwm-5.0 fashion */\n#define SHCMD(cmd) { .v = (const char*[]){ \"/bin/sh\", \"-c\", cmd, NULL } }\n\n/* commands */\n/*\nstatic const char *rofi_run[] = {\n    \"rofi\",\n    \"-combi-modi\",\n    \"window,drun,ssh\",\n    \"-theme\", \"Monokai\",\n    \"-font\", \"hack 10\",\n    \"-show\", \"combi\",\n    \"-lines\", \"10\",\n    \"-width\", \"50\", NULL\n};\n*/\nstatic const char *rofi_run[] = {\n    \"rofi\",\n    \"-show\",\n    \"drun\",\n    \"-show-icons\",\n    \"-matching\",\n    \"fuzzy\",\n    \"-auto-select\",\n    \"-m\",\n    \"-5\",\n    \"-lines\",\n    \"12\",\n    \"-width\",\n    \"70\",\n    \"-theme\",\n    \"Monokai\",\n    NULL,\n};\n\nstatic char dmenumon[2] = \"0\"; /* component of dmenucmd, manipulated in spawn() */\nstatic const char *dmenucmd[] = { \"dmenu_run\", \"-m\", dmenumon, \"-fn\", dmenufont, \"-nb\", col_gray1, \"-nf\", col_gray3, \"-sb\", col_cyan, \"-sf\", col_gray4, NULL };\nstatic const char *termcmd[]  = { \"urxvt\", NULL };\n\nstatic Key keys[] = {\n    /* modifier                     key        function        argument */\n    { MODKEY,                       XK_r,      spawn,          {.v = rofi_run } },\n    { MODKEY,                       XK_Return, spawn,          {.v = termcmd } },\n    { MODKEY,                       XK_b,      togglebar,      {0} },\n    { MODKEY|ShiftMask,             XK_j,      rotatestack,    {.i = +1 } },\n    { MODKEY|ShiftMask,             XK_k,      rotatestack,    {.i = -1 } },\n    { MODKEY,                       XK_j,      focusstack,     {.i = +1 } },\n    { MODKEY,                       XK_k,      focusstack,     {.i = -1 } },\n    { MODKEY,                       XK_i,      incnmaster,     {.i = +1 } },\n    { MODKEY,                       XK_d,      incnmaster,     {.i = -1 } },\n    { MODKEY,                       XK_h,      setmfact,       {.f = -0.05} },\n    { MODKEY,                       XK_l,      setmfact,       {.f = +0.05} },\n    { MODKEY,                       XK_Return, zoom,           {0} },\n    { MODKEY,                       XK_Tab,    view,           {0} },\n    { MODKEY,                       XK_c,      killclient,     {0} },\n    { MODKEY,                       XK_t,      setlayout,      {.v = &layouts[0]} },\n    { MODKEY,                       XK_f,      setlayout,      {.v = &layouts[1]} },\n    { MODKEY,                       XK_m,      setlayout,      {.v = &layouts[2]} },\n    { MODKEY|ControlMask,           XK_comma,  cyclelayout,    {.i = -1 } },\n    { MODKEY|ControlMask,           XK_period, cyclelayout,    {.i = +1 } },\n    { MODKEY,                       XK_g,      setlayout,      {.v = &layouts[3]} },\n    { MODKEY,                       XK_space,  setlayout,      {0} },\n    { MODKEY|ShiftMask,             XK_space,  togglefloating, {0} },\n    { MODKEY,                       XK_0,      view,           {.ui = ~0 } },\n    { MODKEY|ShiftMask,             XK_0,      tag,            {.ui = ~0 } },\n    { MODKEY,                       XK_comma,  focusmon,       {.i = -1 } },\n    { MODKEY,                       XK_period, focusmon,       {.i = +1 } },\n    { MODKEY|ShiftMask,             XK_comma,  tagmon,         {.i = -1 } },\n    { MODKEY|ShiftMask,             XK_period, tagmon,         {.i = +1 } },\n    TAGKEYS(                        XK_1,                      0)\n    TAGKEYS(                        XK_2,                      1)\n    TAGKEYS(                        XK_3,                      2)\n    TAGKEYS(                        XK_4,                      3)\n    TAGKEYS(                        XK_5,                      4)\n    TAGKEYS(                        XK_6,                      5)\n    TAGKEYS(                        XK_7,                      6)\n    TAGKEYS(                        XK_8,                      7)\n    TAGKEYS(                        XK_9,                      8)\n    { MODKEY|ShiftMask,             XK_q,      quit,           {0} },\n};\n\n/* button definitions */\n/* click can be ClkTagBar, ClkLtSymbol, ClkStatusText, ClkWinTitle, ClkClientWin, or ClkRootWin */\nstatic Button buttons[] = {\n    /* click                event mask      button          function        argument */\n    { ClkLtSymbol,          0,              Button1,        setlayout,      {0} },\n    { ClkLtSymbol,          0,              Button3,        setlayout,      {.v = &layouts[2]} },\n    { ClkWinTitle,          0,              Button2,        zoom,           {0} },\n    { ClkStatusText,        0,              Button2,        spawn,          {.v = termcmd } },\n    { ClkClientWin,         MODKEY,         Button1,        movemouse,      {0} },\n    { ClkClientWin,         MODKEY,         Button2,        togglefloating, {0} },\n    { ClkClientWin,         MODKEY,         Button3,        resizemouse,    {0} },\n    { ClkTagBar,            0,              Button1,        view,           {0} },\n    { ClkTagBar,            0,              Button3,        toggleview,     {0} },\n    { ClkTagBar,            MODKEY,         Button1,        tag,            {0} },\n    { ClkTagBar,            MODKEY,         Button3,        toggletag,      {0} },\n};\n\n",
+					"file": "/home/user/dwm/config.def.h",
+					"file_size": 7461,
+					"file_write_time": 132362646104736043,
+					"settings":
+					{
+						"buffer_size": 7465,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/user/new_dwm/config.def.h",
+					"settings":
+					{
+						"buffer_size": 6283,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/user/patches/dwm-rotatestack-20161021-ab9571b.diff",
+					"settings":
+					{
+						"buffer_size": 2549,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/user/repositories/laptop_dotfiles/xorg/.xsession",
+					"settings":
+					{
+						"buffer_size": 185,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/user/repositories/laptop_dotfiles/xorg/.Xauthority",
+					"settings":
+					{
+						"buffer_size": 0,
+						"encoding": "Hexadecimal",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/user/repositories/laptop_dotfiles/xorg/.xsession-errors",
+					"settings":
+					{
+						"buffer_size": 0,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/user/repositories/laptop_dotfiles/xorg/.xsession-errors.old",
+					"settings":
+					{
+						"buffer_size": 0,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/user/.config/guake/session.json",
+					"settings":
+					{
+						"buffer_size": 715,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/user/.config/htop/htoprc",
+					"settings":
+					{
+						"buffer_size": 663,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/user/patches/dwm-autostart-20161205-bb3bd6f.diff",
+					"settings":
+					{
+						"buffer_size": 982,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/user/new_dwm/dwm.c",
+					"settings":
+					{
+						"buffer_size": 52810,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/user/patches/dwm-fakefullscreen-20170508-ceac8c9.diff",
+					"settings":
+					{
+						"buffer_size": 2958,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/user/patches/dwm-movestack-6.1.diff",
+					"settings":
+					{
+						"buffer_size": 2816,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"json",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"prett",
+						"Pretty JSON: Validate"
+					],
+					[
+						"json val",
+						"Pretty JSON: Validate"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"pretty",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"pretyt",
+						"Pretty JSON: Validate"
+					],
+					[
+						"disable",
+						"Package Control: Disable Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"packa",
+						"Package Control: Remove Package"
+					],
+					[
+						"enable",
+						"Package Control: Enable Package"
+					],
+					[
+						"ipacka",
+						"Package Control: Disable Package"
+					],
+					[
+						"eddit",
+						"PackageDev: Edit Current Color Scheme"
+					],
+					[
+						"edit ",
+						"PackageDev: Edit Current Color Scheme"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/user/patches",
+				"/home/user/new_dwm"
+			],
+			"file_history":
+			[
+				"/home/user/Downloads/cancer/Starry",
+				"/home/user/repositories/dwm/night",
+				"/home/user/Downloads/cancer/xbindkeysrc",
+				"/home/user/Downloads/dwm/autostart.sh",
+				"/home/user/.zshrc",
+				"/home/user/.dwm/autostart.sh",
+				"/home/user/patches/dwm-autostart-20161205-bb3bd6f.diff",
+				"/home/user/dwm/config.def.h",
+				"/home/user/dwm/dwm.c",
+				"/home/user/patches/dwm-cyclelayouts-20180524-6.2.diff",
+				"/home/user/patches/dwm-center-6.2.diff",
+				"/home/user/patches/dwm-gridmode-20170909-ceac8c9.diff",
+				"/home/user/Desktop/cloud_client/core/api/http_requests.py",
+				"/home/user/Desktop/cloud_client/core/events/event_dispatch.py",
+				"/home/user/Desktop/cloud_client/resources/guilds/348625208321507338/send.json",
+				"/home/user/.local/share/virtualenvs/cloud_client-RPD7Bb4U/lib/python3.6/site-packages/discord/http.py",
+				"/home/user/Desktop/cloud_client/config/config.json",
+				"/home/user/dwm/my_progress/config.def.h",
+				"/home/user/dwm/dev/config.h",
+				"/home/user/Desktop/test.py",
+				"/home/user/Desktop/cloud_client/core/api/__init__.py",
+				"/home/user/.local/share/virtualenvs/cloud_client-RPD7Bb4U/lib/python3.6/site-packages/discord/gateway.py",
+				"/usr/local/lib/python3.6/socket.py",
+				"/home/user/Desktop/cloud_client/core/events/events/direct_message.py",
+				"/home/user/Desktop/cloud_client/main.py",
+				"/home/user/Desktop/cloud_client/core/loggers/json_logger.py",
+				"/home/user/Desktop/cloud_client/resources/direct_messages/718380178350276618/send.json",
+				"/tmp/mozilla_user0/socketserver.py",
+				"/home/user/Discord/client-bots/001/core/events/events/someothers.py",
+				"/home/user/Discord/client-bots/001/core/loggers/attachment_logger.py",
+				"/home/user/Desktop/cloud_client/resources/direct_messages/718380178350276618/database/database-524774889081536533.json",
+				"/home/user/Desktop/cloud_client/resources/direct_messages/717417379725836308/send.json",
+				"/home/user/Desktop/cloud_client/resources/direct_messages/717417379725836308/database/runtime_history.json",
+				"/home/user/Discord/client-bots/001/core/events/events/group.py",
+				"/home/user/Desktop/cloud_client/resources/direct_messages/710822742915678208/send.json",
+				"/home/user/Desktop/cloud_client/resources/direct_messages/711029179402944644/send.json",
+				"/home/user/Discord/client-bots/001/core/events/events/direct_message.py",
+				"/home/user/Desktop/cloud_client/core/events/events/__init__.py",
+				"/home/user/Discord/client-bots/001/core/events/event_dispatch.py",
+				"/home/user/Discord/client-bots/001/core/loggers/json_logger.py",
+				"/home/user/Desktop/cloud_client/core/utils/cloud_sync.py",
+				"/home/user/Desktop/cloud_client/core/utils/tools.py",
+				"/home/user/Desktop/cloud_client/resources/groups/717692439992991834/send.json",
+				"/home/user/Desktop/cloud_client/resources/guilds/710521954729197649/send.json",
+				"/home/user/Desktop/cloud_client/core/loggers/__init__.py",
+				"/home/user/Discord/client-bots/cloud_client/main.py",
+				"/home/user/Discord/client-bots/cloud_client/core/events/event_dispatch.py",
+				"/home/user/Discord/client-bots/cloud_client/config/config.json",
+				"/home/user/Discord/client-bots/cloud_client/core/utils/cloud_sync.py",
+				"/home/user/Discord/client-bots/cloud_client/core/utils/test.py",
+				"/home/user/Desktop/sometest.py",
+				"/home/user/Discord/client-bots/cloud_client/core/utils/__init__.py",
+				"/home/user/Discord/client-bots/cloud_client/core/utils/tools.py",
+				"/home/user/Discord/client-bots/cloud_client/resources/direct_messages/owo.txt",
+				"/home/user/Desktop/phone_backup/stuff/Download/delete.py",
+				"/home/user/Higvalue/discord/client-bots/001/config/settings.json",
+				"/home/user/Desktop/stuff/discord_tokengen/main.py",
+				"/home/user/Higvalue/discord/client-bots/001/config/session_runtime.json",
+				"/home/user/Downloads/Telegram Desktop/discord_superuser.py",
+				"/mnt/veracrypt1/malware/linux/Maccas/Maccas/build.sh",
+				"/mnt/veracrypt1/discord/backup/friends/2020-05-25T00_47_01.037614-friends_backup.json",
+				"/mnt/veracrypt1/malware/linux/Maccas/Maccas/bot/killer.c",
+				"/home/user/Desktop/phone_backup/stuff/Download/downloads2/hakai_1-copy2/Shadohs_Hakai_bot/tt/killer.c",
+				"/home/user/Desktop/muteguilds.py",
+				"/mnt/veracrypt1/dev/current/core/main.c",
+				"/mnt/veracrypt1/dev/current/core/killer.c",
+				"/mnt/veracrypt1/dev/second/core/killer.c",
+				"/mnt/veracrypt1/dev/current/core/obfuscate.c",
+				"/home/user/Downloads/Cloudbot-copy2/Cloudbot/bot/killer.c",
+				"/home/user/Downloads/cancer/Okane/bot/killer.c",
+				"/home/user/Downloads/cancer/OwariV2/OwariV2/cnc/admin.go",
+				"/home/user/Downloads/cancer/OwariV2/OwariV2/build.sh",
+				"/home/user/Downloads/cancer/Owari/Owari/build.sh",
+				"/home/user/Downloads/cancer/Owari/Owari/bot/main.c",
+				"/home/user/Downloads/cancer/Owari/Owari/cnc/admin.go",
+				"/home/user/Downloads/cancer/Real_Owari/Real_Owari/Real Owari/cnc/admin.go",
+				"/home/user/Downloads/cancer/Real_Owari/Real_Owari/Real Owari/bot/main.c",
+				"/home/user/Downloads/cancer/STORM2/Storm-Net-master/build.sh",
+				"/home/user/Downloads/cancer/Botnets-supply/botnets-master/VirusPack/rBot v0.6.6 priv lsass/shellcode.cpp",
+				"/home/user/Desktop/stuff/guild_backup.json",
+				"/home/user/Downloads/Telegram Desktop/Valid.txt",
+				"/home/user/Downloads/Telegram Desktop/discord_superuser (3).py",
+				"/home/user/Discord/client-bots/cloud_client/config.json",
+				"/home/user/Discord/client-bots/001/main.py",
+				"/home/user/Discord/client-bots/cloud_client/resources/direct_messages",
+				"/home/user/Discord/client-bots/001/core/api/http_utils.py",
+				"/home/user/Discord/client-bots/cloud_client/core/utils/utility.py",
+				"/home/user/Discord/client-bots/001/core/utils/session.py",
+				"/home/user/Discord/client-bots/001/config/settings.json",
+				"/home/user/Desktop/aes_encrypt.py",
+				"/home/user/Desktop/botnet.txt",
+				"/home/user/Discord/client-bots/001/core/commander/processor.py",
+				"/home/user/Downloads/Mana_v4.1/Mana v4.1/installs.sh",
+				"/home/user/.config/discord/settings.json",
+				"/home/user/.config/discord/Preferences",
+				"/home/user/.config/discord/quotes.json",
+				"/home/user/.config/discord/Cookies",
+				"/home/user/.config/discord/0.0.10/modules/installed.json",
+				"/home/user/.config/discord/Code Cache/js/3855acb66aede2a7_0",
+				"/home/user/.config/discord/Session Storage/CURRENT",
+				"/home/user/.config/discord/Session Storage/000004.log",
+				"/home/user/.config/discord/Session Storage/LOG.old",
+				"/home/user/Discord/client-bots/001/config/commands.json",
+				"/tmp/mozilla_user0/index.html",
+				"/home/user/cross-compiler-project/uclibc/easypoint.py",
+				"/home/user/.xbindkeysrc",
+				"/home/user/Discord/client-bots/001/core/commander/__init__.py",
+				"/home/user/.config/sublime-text-3/Packages/User/Pretty JSON.sublime-settings",
+				"/home/user/Discord/client-bots/001/config/keywords.json",
+				"/home/user/Discord/client-bots/001/resources/guilds/656914325369520149/send.json",
+				"/home/user/Discord/client-bots/001/resources/guilds/712271892521811990/send.json",
+				"/home/user/Discord/client-bots/001/resources/direct_messages/711113905321279521/send.json",
+				"/home/user/Discord/client-bots/001/config/session_runtime.json",
+				"/home/user/Desktop/client_bot/core/events/main_events.py",
+				"/home/user/Desktop/gui-selfbot/client_bot/main.py",
+				"/home/user/Desktop/gui-selfbot/main.py",
+				"/home/user/Desktop/gui-selfbot/functions.py",
+				"/home/user/Desktop/gui-selfbot/client_ui.py",
+				"/home/user/Downloads/Cloudbot/Cloudbot/bot/killer.c",
+				"/home/user/.config/KShare/history",
+				"/home/user/Downloads/chinchilla/chinchilla/bot/encryption.c",
+				"/home/user/Downloads/chinchilla/chinchilla/bot/udp_methods.c",
+				"/home/user/Downloads/chinchilla/chinchilla/bot/attack.c",
+				"/home/user/Desktop/evenmorefucked",
+				"/home/user/Downloads/chinchilla/chinchilla/bot/encryption.h",
+				"/home/user/Downloads/chinchilla/chinchilla/bot/main.c",
+				"/home/user/Downloads/Cloudbot/Cloudbot/bot/main.h",
+				"/mnt/veracrypt1/dev/current/tools/enc.c"
+			],
+			"find":
+			{
+				"height": 31.0
+			},
+			"find_in_files":
+			{
+				"height": 136.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"scan",
+					" scan",
+					" scan(void)",
+					"run",
+					"auto",
+					"scan",
+					"iscentered",
+					"int iscentered",
+					"change_display",
+					"__session",
+					"method",
+					"guilds[",
+					"self.arg.",
+					"self.ctx",
+					" self.ctx"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"self.atribute[",
+					"self.kwargs['arg'].",
+					"self.kwargs['arg']",
+					"self.kwargs['ctx']"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/user/Desktop/cloud_client"
+				},
+				{
+					"path": "/home/user/patches"
+				},
+				{
+					"path": "/home/user/new_dwm"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 11,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 6999,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2611,
+										2611
+									]
+								],
+								"settings":
+								{
+									"default_dir": "/home/user/dwm",
+									"syntax": "Packages/C++/C++.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1260.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 15,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 268,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										235,
+										235
+									]
+								],
+								"settings":
+								{
+									"auto_name": "git merge config -m config",
+									"default_dir": "/home/user/dwm",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 9,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/user/dwm/config.h",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 7461,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2807,
+										2807
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/C++/C++.sublime-syntax",
+									"translate_tabs_to_spaces": false,
+									"word_wrap": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 378.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 8,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/home/user/dwm/config.def.h",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 7465,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2956,
+										2956
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/C++/C++.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2514.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 14,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/home/user/new_dwm/config.def.h",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 6283,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/C++/C++.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 21.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/home/user/patches/dwm-rotatestack-20161021-ab9571b.diff",
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 2549,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Diff/Diff.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/home/user/repositories/laptop_dotfiles/xorg/.xsession",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 185,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										184,
+										184
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/ShellScript/Bash.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/home/user/repositories/laptop_dotfiles/xorg/.Xauthority",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 0,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"file": "/home/user/repositories/laptop_dotfiles/xorg/.xsession-errors",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 0,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 9,
+							"file": "/home/user/repositories/laptop_dotfiles/xorg/.xsession-errors.old",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 0,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 10,
+							"file": "/home/user/.config/guake/session.json",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 715,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 11,
+							"file": "/home/user/.config/htop/htoprc",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 663,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 189.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 12,
+							"file": "/home/user/patches/dwm-autostart-20161205-bb3bd6f.diff",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 982,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										916,
+										916
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Git Formats/Git Log.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 441.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 13,
+							"type": "text"
+						},
+						{
+							"buffer": 13,
+							"file": "/home/user/new_dwm/dwm.c",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 52810,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/C++/C.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 44626.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 12,
+							"type": "text"
+						},
+						{
+							"buffer": 14,
+							"file": "/home/user/patches/dwm-fakefullscreen-20170508-ceac8c9.diff",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2958,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										80,
+										80
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Diff/Diff.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 315.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 11,
+							"type": "text"
+						},
+						{
+							"buffer": 15,
+							"file": "/home/user/patches/dwm-movestack-6.1.diff",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2816,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2691,
+										2691
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Diff/Diff.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 1070.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 10,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 31.0
+			},
+			"input":
+			{
+				"height": 47.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 128.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"output.unsaved_changes":
+			{
+				"height": 128.0
+			},
+			"pinned_build_system": "",
+			"position": "0,1,0,0,0,0,0,0,0,2966,900",
+			"project": "",
+			"replace":
+			{
+				"height": 58.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 261.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 58,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

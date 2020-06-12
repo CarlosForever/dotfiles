@@ -1,0 +1,17 @@
+[
+    {
+        "keys": [
+            "f1"
+        ],
+        "command": "dired",
+        "args": {
+            "immediate": true
+        }
+    },
+    {
+        "keys": [
+            "ctrl+k"
+        ],
+        "command": "toggle_side_bar"
+    }
+]

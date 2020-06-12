@@ -1,0 +1,53 @@
+[
+    {"id": "side-bar-files-open-with",
+        "children":
+        [
+
+            //application 1
+            {
+                "caption": "Photoshop",
+                "id": "side-bar-files-open-with-photoshop",
+
+                "command": "side_bar_files_open_with",
+                "args": {
+                                    "paths": [],
+                                    "application": "Adobe Photoshop CS5.app", // OSX
+                                    "extensions":"psd|png|jpg|jpeg",  //any file with these extensions
+                                    "args":[]
+                                }
+            },
+
+            //separator
+            {"caption":"-"},
+
+            //application 2
+            {
+                "caption": "SeaMonkey",
+                "id": "side-bar-files-open-with-seamonkey",
+
+                "command": "side_bar_files_open_with",
+                "args": {
+                                    "paths": [],
+                                    "application": "C:\\Archivos de programa\\SeaMonkey\\seamonkey.exe", // WINNT
+                                    "extensions":"", //open all even folders
+                                    "args":[]
+                                }
+            },
+            //application n
+            {
+                "caption": "Spacefm",
+                "id": "side-bar-files-open-with-spacefm",
+
+                "command": "side_bar_files_open_with",
+                "args": {
+                                    "paths": [],
+                                    "application": "/usr/bin/spacefm",
+                                    "extensions":"", //any file with extension
+                                    "args":[]
+                        }
+            },
+
+            {"caption":"-"}
+        ]
+    }
+]
