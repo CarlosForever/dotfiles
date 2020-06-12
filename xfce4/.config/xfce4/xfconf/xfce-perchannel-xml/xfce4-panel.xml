@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<channel name="xfce4-panel" version="1.0">
+  <property name="configver" type="int" value="2"/>
+  <property name="panels" type="array">
+    <value type="int" value="1"/>
+    <property name="panel-1" type="empty">
+      <property name="position" type="string" value="p=8;x=960;y=1066"/>
+      <property name="length" type="uint" value="100"/>
+      <property name="position-locked" type="bool" value="true"/>
+      <property name="icon-size" type="uint" value="16"/>
+      <property name="size" type="uint" value="26"/>
+      <property name="background-style" type="uint" value="1"/>
+      <property name="background-rgba" type="array">
+        <value type="double" value="0.000000"/>
+        <value type="double" value="0.000000"/>
+        <value type="double" value="0.000000"/>
+        <value type="double" value="0.695946"/>
+      </property>
+      <property name="autohide-behavior" type="uint" value="2"/>
+      <property name="mode" type="uint" value="0"/>
+      <property name="plugin-ids" type="array">
+        <value type="int" value="2"/>
+        <value type="int" value="7"/>
+        <value type="int" value="1"/>
+        <value type="int" value="4"/>
+        <value type="int" value="5"/>
+        <value type="int" value="8"/>
+        <value type="int" value="3"/>
+      </property>
+    </property>
+  </property>
+  <property name="plugins" type="empty">
+    <property name="plugin-9" type="string" value="power-manager-plugin"/>
+    <property name="plugin-1" type="string" value="systray">
+      <property name="names-ordered" type="array">
+        <value type="string" value="thunar"/>
+        <value type="string" value="teamviewer"/>
+        <value type="string" value="anydesk.bin"/>
+        <value type="string" value="anydesk"/>
+        <value type="string" value="veracrypt"/>
+        <value type="string" value="telegramdesktop"/>
+        <value type="string" value="discord"/>
+        <value type="string" value="flameshot"/>
+        <value type="string" value="networkmanager applet"/>
+      </property>
+    </property>
+    <property name="plugin-2" type="string" value="dockbarx"/>
+    <property name="plugin-3" type="string" value="notification-plugin"/>
+    <property name="plugin-4" type="string" value="pulseaudio">
+      <property name="enable-keyboard-shortcuts" type="bool" value="true"/>
+      <property name="mpris-players" type="string" value="audacious;chromium.instance101031;chromium.instance1106;chromium.instance1144;chromium.instance1158;chromium.instance1192;chromium.instance1220;chromium.instance124887;chromium.instance12970;chromium.instance249695;chromium.instance25160;chromium.instance27566;chromium.instance31694;chromium.instance3419;chromium.instance37575;chromium.instance4863;chromium.instance48822;chromium.instance49974;chromium.instance56540;chromium.instance7019;chromium.instance75128;chromium.instance79944;chromium.instance84852"/>
+    </property>
+    <property name="plugin-5" type="string" value="clock">
+      <property name="timezone" type="string" value="GMT-2"/>
+      <property name="tooltip-format" type="string" value="%x"/>
+      <property name="digital-format" type="string" value="%T"/>
+      <property name="mode" type="uint" value="2"/>
+    </property>
+    <property name="plugin-7" type="string" value="separator">
+      <property name="expand" type="bool" value="true"/>
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-8" type="string" value="separator">
+      <property name="expand" type="bool" value="false"/>
+      <property name="style" type="uint" value="0"/>
+    </property>
+  </property>
+</channel>

@@ -1,0 +1,55 @@
+#window manager controlls
+
+#spawn terminal emulator
+"urxvt --geometry 100+100+200"
+Mod4 + Return
+
+#spawn application launcher
+"rofi -show drun -case-sensitive -show-icons -matching fuzzy -auto-select -m -5 -lines 12 -width 70 -theme Monokai &"
+Mod2+Mod4 + grave
+
+#spawn window selector
+"rofi -show window -theme Monokai -lines 10 -width 70 -show-icons -matching glob -async-pre-read 25 -auto-select -m -5 &"
+Mod2+Mod4 + w
+
+#spawn filemanager
+"pidof pcmanfm  >/dev/null && pkill pcmanfm || /home/user/.config/controllers/pcmanctl.sh &"
+Mod4+f
+
+
+#volume controlls
+
+#mute mic
+# mute micrphone recursive!
+"/home/user/.config/controllers/sourcectl.sh ctrl_in 3"
+KP_Insert
+
+#decrease input level
+"/home/user/.config/controllers/sourcectl.sh ctrl_in 2"
+Alt+KP_End
+
+#increase input level
+"/home/user/.config/controllers/sourcectl.sh ctrl_in 1"
+Alt+KP_Down
+
+
+
+# mute output recursive!
+"/home/user/.config/controllers/sourcectl.sh ctrl_out 3"
+KP_Delete
+
+#decrease output level
+"/home/user/.config/controllers/sourcectl.sh ctrl_in 2"
+Alt+KP_End
+
+#increase output level
+"/home/user/.config/controllers/sourcectl.sh ctrl_out 1"
+Alt+KP_Down
+
+#mute webrtc
+
+
+#lauch pulseaudio controller
+"pidof pavucontrol >/dev/null && pkill -9 pavucontrol || pavucontrol &"
+KP_Enter
+

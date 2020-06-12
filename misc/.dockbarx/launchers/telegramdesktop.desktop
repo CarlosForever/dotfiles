@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Telegram Desktop
+Comment=Official desktop version of Telegram messaging app
+Exec=telegram-desktop -- %u
+Icon=telegram
+Path=
+Terminal=false
+StartupNotify=false

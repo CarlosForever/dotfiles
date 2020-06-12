@@ -1,0 +1,1440 @@
+{
+	"folder_history":
+	[
+		"/home/user/dwm-6.2",
+		"/home/user/dwm",
+		"/home/user/.local/share/virtualenvs/cloud_client-RPD7Bb4U/lib/python3.6/site-packages/discord",
+		"/home/user/Desktop/cloud_client",
+		"/home/user/Discord/client-bots/001/resources/direct_messages/698156336042475600",
+		"/mnt/veracrypt1/malware/linux/second_degree/aurhor_1",
+		"/home/user/Discord/client-bots"
+	],
+	"last_version": 3211,
+	"last_window_id": 7,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 1056.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"n",
+						"None\tNoneType ⟠"
+					],
+					[
+						"pa",
+						"packed\tlist ⟠"
+					],
+					[
+						"Grou",
+						"GroupStruct\ttype ⟠"
+					],
+					[
+						"c",
+						"client"
+					],
+					[
+						"cl",
+						"client"
+					],
+					[
+						"lo",
+						"lose_data\tdict ⟠"
+					],
+					[
+						"url",
+						"urllib3\tmodule ⟠"
+					],
+					[
+						"re",
+						"requests"
+					],
+					[
+						"thr",
+						"threaded_aids()\tfunction ⟠"
+					],
+					[
+						"r",
+						"return\tkeyword ⟠"
+					],
+					[
+						"th",
+						"threading\tmodule ⟠"
+					],
+					[
+						"ret",
+						"requests\t⟠"
+					],
+					[
+						"kwa",
+						"kwargs\tdict ⟠"
+					],
+					[
+						"head",
+						"header_dict\t⟠"
+					],
+					[
+						"de",
+						"daemon\t⟠"
+					],
+					[
+						"ther",
+						"threading\tmodule ⟠"
+					],
+					[
+						"user",
+						"user_id"
+					],
+					[
+						"chn",
+						"channel_id"
+					],
+					[
+						"a",
+						"async"
+					],
+					[
+						"data",
+						"database-"
+					],
+					[
+						"i",
+						"isdir(…)\tfunction ⟠"
+					],
+					[
+						"crea",
+						"create_directory"
+					],
+					[
+						"el",
+						"elif\tkeyword ⟠"
+					],
+					[
+						"is",
+						"isfile(…)\tfunction ⟠"
+					],
+					[
+						"new",
+						"new_channel"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"json",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"json]",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/user/.local/share/virtualenvs/cloud_client-RPD7Bb4U/lib/python3.6/site-packages/discord/http.py",
+				"/home/user/Desktop/cloud_client/core/api/http_requests.py",
+				"/home/user/.local/share/virtualenvs/cloud_client-RPD7Bb4U/lib/python3.6/site-packages/discord/client.py",
+				"/home/user/Desktop/temp.py",
+				"/home/user/Desktop/cloud_client/core/utils/tools.py",
+				"/home/user/Desktop/cloud_client/core/events/events/__init__.py",
+				"/home/user/Discord/client-bots/001/config/session_runtime.json",
+				"/home/user/Desktop/cloud_client/core/events/event_dispatch.py",
+				"/home/user/Desktop/cloud_client/core/events/events/direct_message_event.py",
+				"/home/user/Discord/client-bots/001/core/events/events/someothers.py",
+				"/home/user/Discord/client-bots/001/core/loggers/attachment_logger.py",
+				"/home/user/Desktop/cloud_client/resources/guilds/420104212895105044/send.json",
+				"/home/user/Desktop/cloud_client/resources/direct_messages/713799991189045318/database/runtime_history.json",
+				"/home/user/Desktop/cloud_client/core/events/events/direct_message.py",
+				"/home/user/Desktop/cloud_client/resources/direct_messages/713799991189045318/database/database-660875331913383947.json",
+				"/home/user/.config/sublime-text-3/Packages/Pretty JSON/Pretty JSON.sublime-settings",
+				"/home/user/.config/sublime-text-3/Packages/User/Pretty JSON.sublime-settings",
+				"/home/user/Desktop/cloud_client/config/config.json",
+				"/home/user/Discord/client-bots/cloud_client/core/utils/tools.py",
+				"/home/user/Desktop/http_test.py",
+				"/home/user/Discord/client-bots/001/core/commander/processor.py",
+				"/home/user/Desktop/cloud_client/core/loggers/json_logger.py",
+				"/tmp/mozilla_user0/socketserver.py",
+				"/home/user/Discord/client-bots/001/config/commands.json",
+				"/home/user/Desktop/share/cloud_client/core/utils/tools.py",
+				"/home/user/Desktop/share/cloud_client/core/events/events/direct_message.py",
+				"/home/user/Desktop/share/cloud_client/core/api/http_requests.py",
+				"/home/user/Desktop/share/cloud_client/config/config.json",
+				"/tmp/mozilla_user0/Dont_run_this_shit.vbs",
+				"/home/user/Desktop/cloud_client/resources/direct_messages/718599773325623386/database/database-671091422048419853.json",
+				"/home/user/Desktop/cloud_client/resources/direct_messages/717417379725836308/database/database-468119808962199553.json",
+				"/home/user/Desktop/cloud_client/resources/direct_messages/715830829883850783/database/470934424540938241.json",
+				"/mnt/veracrypt1/discord/tools/discord_superuser.py",
+				"/mnt/veracrypt1/discord/backup/friends/2020-05-27T02_16_53.364054-friends_backup.json",
+				"/mnt/veracrypt1/discord/backup/friends/2020-05-27T01_38_43.068392-friends_backup.json",
+				"/mnt/veracrypt1/discord/backup/friends/2020-05-25T00_47_01.037614-friends_backup.json",
+				"/home/user/Discord/client-bots/001/core/events/events/direct_message.py",
+				"/home/user/Discord/client-bots/001/core/events/event_dispatch.py",
+				"/home/user/Discord/client-bots/001/core/utils/session.py",
+				"/home/user/Desktop/cloud_client/main.py",
+				"/home/user/Discord/client-bots/001/core/utils/utils.py",
+				"/home/user/Desktop/cloud_client/core/utils/session.py",
+				"/home/user/Desktop/cloud_client/core/utils/cloud_sync.py",
+				"/home/user/Desktop/discord/tools/discord_superuser.py",
+				"/home/user/Desktop/discord/tools/2020-06-04T18:16:36.892221-friends_backup.json",
+				"/home/user/Desktop/discord/tools/invite.py",
+				"/home/user/Desktop/test_dump.json",
+				"/home/user/Desktop/discord/tools/guild_backup.json",
+				"/mnt/Discord/client-bots/cloud_client/core/loggers/json_logger.py",
+				"/mnt/veracrypt1/malware/linux/second_degree/aurhor_1/case22/core/main.c",
+				"/home/user/Discord/client-bots/cloud_client/main.py",
+				"/home/user/Desktop/discord/client-bots/cloud_client/config/config.json",
+				"/home/user/Desktop/discord/client-bots/cloud_client/main.py",
+				"/home/user/Desktop/2020-06-03T08:55:46.438485-friends_backup.json",
+				"/home/user/Desktop/discord/tools/SimpleChat.c",
+				"/mnt/veracrypt1/discord/client-bots/cloud_client/main.py",
+				"/tmp/mozilla_user0/smallbot.c",
+				"/home/user/Discord/client-bots/cloud_client/core/loggers/json_logger.py",
+				"/home/user/Discord/client-bots/001/core/loggers/json_logger.py",
+				"/home/user/Discord/client-bots/cloud_client/core/events/event_dispatch.py",
+				"/home/user/.xbindkeysrc",
+				"/mnt/veracrypt1/discord/backup/guild_backup.json",
+				"/home/user/Discord/client-bots/cloud_client/core/loggers/__init__.py",
+				"/tmp/kite_tutorial.py",
+				"/home/user/.config/controllers/sourcectl.sh",
+				"/home/user/.config/controllers/pcmanctl.sh",
+				"/home/user/Desktop/discord/backup/friends/2020-05-25T00_47_01.037614-friends_backup.json",
+				"/home/user/.config/pcmanfm/default/pcmanfm.conf"
+			],
+			"find":
+			{
+				"height": 48.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"mutual",
+					"mutual_guilds",
+					"guilds",
+					"fetch_user_profile",
+					"ctx",
+					"client",
+					")))\n",
+					"None",
+					"()\n",
+					"\"]),",
+					"delete",
+					"None",
+					"headers",
+					"ret",
+					"'NzEwODIwNDQ1MzM4ODYxNjI4.XteNgQ.M3IuH9HCYFo7f9OH7GUPs_mv8FE'",
+					"token",
+					"\"\n",
+					"())\n",
+					"datetime",
+					"nPFaM",
+					"change_regions",
+					"id:Zombie",
+					"datetime.now",
+					"ClientEvents"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"context",
+					"datetime.datetime",
+					"id:minecraft:chicken",
+					"id:Chicken",
+					"id:chicken",
+					"datetime.datetime.now"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 32.0
+			},
+			"input":
+			{
+				"height": 48.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 92.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 569.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1920.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"home",
+						"HOME"
+					],
+					[
+						"ba",
+						"batery"
+					],
+					[
+						"std",
+						"stddef.h\tstandard header"
+					],
+					[
+						"a",
+						"auto-select"
+					],
+					[
+						"ma",
+						"matching"
+					],
+					[
+						"show",
+						"show-icons"
+					],
+					[
+						"d",
+						"drun"
+					],
+					[
+						"ro",
+						"rofi"
+					],
+					[
+						"mon",
+						"Monokai"
+					],
+					[
+						"ps",
+						"post_ret\tHTTPResponse ⟠"
+					],
+					[
+						"po",
+						"post_ret\tHTTPResponse ⟠"
+					],
+					[
+						"invi",
+						"invites"
+					],
+					[
+						"u",
+						"UserRequests\ttype ⟠"
+					],
+					[
+						"get",
+						"get_ret\tHTTPResponse ⟠"
+					],
+					[
+						"ge",
+						"get_ret\tHTTPResponse ⟠"
+					],
+					[
+						"invite",
+						"invite_code"
+					],
+					[
+						"ch",
+						"cached-invites"
+					],
+					[
+						"con",
+						"context_processor"
+					],
+					[
+						"cha",
+						"cached-invites"
+					],
+					[
+						"Cha",
+						"CACHED_INVTES"
+					],
+					[
+						"c",
+						"CACHED_INVTES\tlist ⟠"
+					],
+					[
+						"CH",
+						"CACHED_INVTES"
+					],
+					[
+						"CAH",
+						"CACHED_INVTES\tlist ⟠"
+					],
+					[
+						"me",
+						"MESSAGE_TUPLE\ttuple ⟠"
+					],
+					[
+						"ac",
+						"action"
+					],
+					[
+						"l",
+						"literal\tlist ⟠"
+					],
+					[
+						"data",
+						"database"
+					],
+					[
+						"re",
+						"requests\tmodule ⟠"
+					],
+					[
+						"is",
+						"isfile(…)\tfunction ⟠"
+					],
+					[
+						"inde",
+						"index"
+					],
+					[
+						"s",
+						"striped\tstr ⟠"
+					],
+					[
+						"_",
+						"_fp"
+					],
+					[
+						"se",
+						"session\tDiscordSession ⟠"
+					],
+					[
+						"sr",
+						"old_stderr"
+					],
+					[
+						"so",
+						"some_data\tdict ⟠"
+					],
+					[
+						"__",
+						"__init__"
+					],
+					[
+						"su",
+						"super\ttype ⟠"
+					],
+					[
+						"dis",
+						"discord_dict\tdict ⟠"
+					],
+					[
+						"di",
+						"discord_dict\tdict ⟠"
+					],
+					[
+						"time",
+						"timeout"
+					],
+					[
+						"i",
+						"i_like_turtles"
+					],
+					[
+						"p",
+						"print\tfunction ⟠"
+					],
+					[
+						"r",
+						"read_json\tdict ⟠"
+					],
+					[
+						"mut",
+						"mutual_guilds"
+					],
+					[
+						"Grou",
+						"GroupEssentials\ttype ⟠"
+					],
+					[
+						"mu",
+						"mutual_friends\tfunction ⟠"
+					],
+					[
+						"n",
+						"None\tNoneType ⟠"
+					],
+					[
+						"pa",
+						"packed\tlist ⟠"
+					],
+					[
+						"cl",
+						"client"
+					],
+					[
+						"lo",
+						"lose_data\tdict ⟠"
+					],
+					[
+						"url",
+						"urllib3\tmodule ⟠"
+					],
+					[
+						"thr",
+						"threaded_aids()\tfunction ⟠"
+					],
+					[
+						"th",
+						"threading\tmodule ⟠"
+					],
+					[
+						"ret",
+						"requests\t⟠"
+					],
+					[
+						"kwa",
+						"kwargs\tdict ⟠"
+					],
+					[
+						"head",
+						"header_dict\t⟠"
+					],
+					[
+						"de",
+						"daemon\t⟠"
+					],
+					[
+						"ther",
+						"threading\tmodule ⟠"
+					],
+					[
+						"user",
+						"user_id"
+					],
+					[
+						"chn",
+						"channel_id"
+					],
+					[
+						"crea",
+						"create_directory"
+					],
+					[
+						"el",
+						"elif\tkeyword ⟠"
+					],
+					[
+						"new",
+						"new_channel"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "git merge config -m config\ngit merge autostart -m autostart\ngit merge pertag -m pertag\ngit merge noborder -m noborder\ngit merge fakefullscreen -m fakefullscreen\ngit merge actualfullscreen -m actualfullscreen\ngit merge center -m center\ngit merge gridmode -m gridmode\ngit merge cyclelayouts -m cyclelayouts\n",
+					"settings":
+					{
+						"buffer_size": 305,
+						"line_ending": "Unix",
+						"name": "git merge config -m config"
+					}
+				},
+				{
+					"file": "/home/user/Desktop/dotfiles/zsh/.zshrc",
+					"settings":
+					{
+						"buffer_size": 934,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "-rw-r--r-- 1 user users 96012312 Jun 11 23:42 aarch64--glibc--stable-2020.02-2.tar.bz2\n-rw-r--r-- 1 user users 96164289 Jun 11 23:42 aarch64be--glibc--stable-2020.02-2.tar.bz2\n-rw-r--r-- 1 user users 86935715 Jun 11 23:42 arcle-hs38--glibc--stable-2020.02-2.tar.bz2\n-rw-r--r-- 1 user users 95604550 Jun 11 23:43 armebv7-eabihf--glibc--stable-2020.02-2.tar.bz2\n-rw-r--r-- 1 user users 95966093 Jun 11 23:43 armv5-eabi--glibc--stable-2020.02-2.tar.bz2\n-rw-r--r-- 1 user users 95597365 Jun 11 23:43 armv6-eabihf--glibc--stable-2020.02-2.tar.bz2\n-rw-r--r-- 1 user users 95518983 Jun 11 23:43 armv7-eabihf--glibc--stable-2020.02-2.tar.bz2\n-rw-r--r-- 1 user users 81912026 Jun 11 23:44 microblazebe--glibc--stable-2020.02-2.tar.bz2\n-rw-r--r-- 1 user users 82029794 Jun 11 23:43 microblazeel--glibc--stable-2020.02-2.tar.bz2\n-rw-r--r-- 1 user users 94146549 Jun 11 23:44 mips32--glibc--stable-2020.02-2.tar.bz2\n-rw-r--r-- 1 user users 94259419 Jun 11 23:44 mips32el--glibc--stable-2020.02-2.tar.bz2\n-rw-r--r-- 1 user users 59812518 Jun 11 23:43 mips32r5el--glibc--stable-2017.05-toolchains-1-20-ge9cdc44-1.tar.bz2\n-rw-r--r-- 1 user users 96941088 Jun 11 23:44 powerpc-e500mc--glibc--stable-2020.02-2.tar.bz2\n-rw-r--r-- 1 user users 99103073 Jun 11 23:44 powerpc64-e5500--glibc--stable-2020.02-2.tar.bz2\n-rw-r--r-- 1 user users 99002701 Jun 11 23:45 powerpc64-power8--glibc--stable-2020.02-2.tar.bz2\n-rw-r--r-- 1 user users 99176458 Jun 11 23:44 powerpc64le-power8--glibc--stable-2020.02-2.tar.bz2\n-rw-r--r-- 1 user users 89064949 Jun 11 23:45 riscv32-ilp32d--glibc--bleeding-edge-2020.02-2.tar.bz2\n-rw-r--r-- 1 user users 88927504 Jun 11 23:44 riscv64--glibc--bleeding-edge-2020.02-2.tar.bz2\n-rw-r--r-- 1 user users 88975605 Jun 11 23:45 sh-sh4--glibc--stable-2020.02-2.tar.bz2\n-rw-r--r-- 1 user users 88941646 Jun 11 23:45 sh-sh4aeb--glibc--stable-2020.02-2.tar.bz2\n-rw-r--r-- 1 user users 87972167 Jun 11 23:45 sparc64--glibc--stable-2020.02-2.tar.bz2\n-rw-r--r-- 1 user users 99594108 Jun 11 23:45 x86-i686--glibc--stable-2020.02-2.tar.bz2",
+					"settings":
+					{
+						"buffer_size": 2034,
+						"line_ending": "Unix",
+						"name": "-rw-r--r-- 1 user users 96012312 Jun 11 23:42 aarc"
+					}
+				},
+				{
+					"contents": "for f in *\ndo\n  echo untarring $f\n  tar xjf $f &\ndone\n\n\n\nfor f in *\ndo\n  echo tarring $f\n  tar -zcvf $f.tar.gz $f &\ndone\n\nfor f in *\ndo\n  echo unrarring $f\n  tar -zxvf $f $f\ndone\n\n\ntar -cjvf\n\nfor f in *\ndo\n  echo tarring $f\n  tar -cjvf $f.tar.bz2 $f &\ndone",
+					"settings":
+					{
+						"buffer_size": 256,
+						"line_ending": "Unix",
+						"name": "for f in *"
+					}
+				},
+				{
+					"file": "/home/user/repositories/dotfiles/xorg/.xsession-errors.old",
+					"settings":
+					{
+						"buffer_size": 0,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/user/repositories/dotfiles/xorg/.xsession-errors",
+					"settings":
+					{
+						"buffer_size": 0,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/user/repositories/dotfiles/xorg/.Xauthority",
+					"settings":
+					{
+						"buffer_size": 0,
+						"encoding": "Hexadecimal",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/user/Desktop/cloud_client/config/config.json",
+					"settings":
+					{
+						"buffer_size": 1690,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "rm -v !(\"uClibc\"|\"musl\"|\"glibc\") \n \n7z e testzip.zip -o test -r",
+					"settings":
+					{
+						"buffer_size": 63,
+						"line_ending": "Unix",
+						"name": "rm -v !(\"uClibc\"|\"musl\"|\"glibc\")"
+					}
+				},
+				{
+					"contents": "sudo cp -R /home/user/Desktop/dotfiles . && sudo chmod -R 755 dotfiles",
+					"settings":
+					{
+						"buffer_size": 70,
+						"line_ending": "Unix",
+						"name": "sudo cp -R /home/user/Desktop/dotfiles . && sudo c"
+					}
+				},
+				{
+					"file": "/home/user/.zshrc",
+					"settings":
+					{
+						"buffer_size": 1441,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"jsoi",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"json",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"js",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"json]",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/user/Desktop/cloud_client",
+				"/home/user/Desktop/cloud_client/config",
+				"/home/user/dwm-6.2"
+			],
+			"file_history":
+			[
+				"/mnt/veracrypt1/discord/tools/discord_superuser.py",
+				"/home/user/dotfiles/bash/.bash_logout",
+				"/home/user/dotfiles/xorg/.xsession-errors",
+				"/home/user/dotfiles/zsh/.zshrc",
+				"/home/user/Desktop/dotfiles/xorg/.Xauthority",
+				"/home/user/Desktop/dotfiles/bash/.bash_profile",
+				"/home/user/.dmrc",
+				"/home/user/Desktop/dotfiles/zsh/.config/histfile",
+				"/home/user/Desktop/dotfiles/zsh/.zsh/om-zsh/oh-my-zsh.sh",
+				"/home/user/Desktop/dotfiles/zsh/zsh/aliases",
+				"/home/user/.zshrc",
+				"/home/user/Desktop/dotfiles/zsh/.zshrc",
+				"/home/user/Desktop/dotfiles/xorg/.xsession-errors",
+				"/home/user/Desktop/dotfiles/bash/.bash_history",
+				"/home/user/.xinitrc",
+				"/home/user/dotfiles/bash/.bashrc",
+				"/home/user/dotfiles/bash/.bash_profile",
+				"/home/user/dotfiles/xorg/.Xauthority",
+				"/home/user/.dwm/autostart.sh",
+				"/home/user/.dwm/scrips/status_bar.sh",
+				"/home/user/dwm-6.2/dwm.1",
+				"/home/user/dwm-6.2/dwm.c",
+				"/home/user/dwm-6.2/config.def.h",
+				"/home/user/dwm-6.2/.git/MERGE_MSG",
+				"/home/user/slock-1.4/config.def.h",
+				"/home/user/Downloads/zshrc",
+				"/mnt/cloud_client/core/events/events/message_event.py",
+				"/home/user/Desktop/cloud_client/core/events/events/message_event.py",
+				"/home/user/dwm/dwm.c",
+				"/home/user/.xbindkeysrc",
+				"/home/user/.config/dwm/autostart.sh",
+				"/home/user/.config/dwm/scrips/status_bar.sh",
+				"/home/user/Desktop/dwm_tut",
+				"/mnt/veracrypt1/malware/linux/second_degree/aurhor_1/case22/core/killer.c",
+				"/home/user/dwm/drw.c",
+				"/home/user/dwm/config.h",
+				"/home/user/dwm/config.def.h",
+				"/home/user/Desktop/switch_terms.c",
+				"/home/user/dwm/config.mk",
+				"/home/user/Desktop/cloud_client/core/api/http_requests.py",
+				"/home/user/dwm/patches/dwm-pertag-6.2.diff",
+				"/home/user/Downloads/dwm-git-20120406-pertag.diff",
+				"/home/user/Downloads/dwm-noborderfloatingfix-6.2.diff",
+				"/home/user/.Xresources",
+				"/home/user/Desktop/cloud_client/config/session.json",
+				"/home/user/Desktop/cloud_client/core/events/events/group_event.py",
+				"/tmp/mozilla_user0/alacritty.yml",
+				"/home/user/.alacritty.yml",
+				"/home/user/Desktop/cloud_client/core/events/event_dispatch.py",
+				"/home/user/Discord/client-bots/001/core/events/events/group.py",
+				"/home/user/Discord/client-bots/001/core/events/events/someothers.py",
+				"/home/user/Desktop/cloud_client/core/events/events/__init__.py",
+				"/home/user/Desktop/cloud_client/config/config.json",
+				"/home/user/Desktop/cloud_client/core/events/events/direct_message_event.py",
+				"/home/user/Discord/client-bots/001/core/utils/functions.py",
+				"/home/user/Discord/client-bots/001/core/utils/utils.py",
+				"/home/user/Desktop/cloud_client/resources/groups/719626847373099138/database/left/218473349175705601.json",
+				"/home/user/Discord/client-bots/001/core/api/api.py",
+				"/home/user/Desktop/cloud_client/test_main.py",
+				"/home/user/Desktop/cloud_client/main.py",
+				"/home/user/Desktop/cloud_client/resources/groups/719622344120991764/database/recipients/218473349175705601.json",
+				"/home/user/Desktop/cloud_client/resources/groups/719622344120991764/database/recipients/674540371350650905.json",
+				"/mnt/veracrypt1/discord/tools/destory_acount.py",
+				"/home/user/Discord/client-bots/001/config/session_runtime.json",
+				"/home/user/Desktop/cloud_client/core/utils/cloud_sync.py",
+				"/mnt/veracrypt1/discord/tools/invite.py",
+				"/home/user/Desktop/token_check.py",
+				"/home/user/Desktop/cloud_client/main_revanmed.py",
+				"/home/user/Desktop/cloud_client/config/test_config.json",
+				"/home/user/Desktop/temp.py",
+				"/tmp/mozilla_user0/discord.log.txt",
+				"/home/user/Desktop/cloud_client/resources/groups/719210284694110229/send.json",
+				"/home/user/.cache/.fr-5GkoT3/DAC v1 - Apash/proxies.txt",
+				"/home/user/Discord/client-bots/001/resources/groups/697760518219366400/db/recipients/192903820492144642.json",
+				"/home/user/.local/share/virtualenvs/cloud_client-RPD7Bb4U/lib/python3.6/site-packages/discord/http.py",
+				"/home/user/Discord/client-bots/001/tools/sort.py",
+				"/tmp/mozilla_user0/database-524774889081536533.json",
+				"/home/user/Desktop/cloud_client/core/events/events/process_message.py",
+				"/home/user/.local/share/virtualenvs/cloud_client-RPD7Bb4U/lib/python3.6/site-packages/discord/client.py",
+				"/home/user/Desktop/cloud_client/core/utils/tools.py",
+				"/home/user/Discord/client-bots/001/core/loggers/attachment_logger.py",
+				"/home/user/Desktop/cloud_client/resources/guilds/420104212895105044/send.json",
+				"/home/user/Desktop/cloud_client/resources/direct_messages/713799991189045318/database/runtime_history.json",
+				"/home/user/Desktop/cloud_client/core/events/events/direct_message.py",
+				"/home/user/Desktop/cloud_client/resources/direct_messages/713799991189045318/database/database-660875331913383947.json",
+				"/home/user/.config/sublime-text-3/Packages/Pretty JSON/Pretty JSON.sublime-settings",
+				"/home/user/.config/sublime-text-3/Packages/User/Pretty JSON.sublime-settings",
+				"/home/user/Discord/client-bots/cloud_client/core/utils/tools.py",
+				"/home/user/Desktop/http_test.py",
+				"/home/user/Discord/client-bots/001/core/commander/processor.py",
+				"/home/user/Desktop/cloud_client/core/loggers/json_logger.py",
+				"/tmp/mozilla_user0/socketserver.py",
+				"/home/user/Discord/client-bots/001/config/commands.json",
+				"/home/user/Desktop/share/cloud_client/core/utils/tools.py",
+				"/home/user/Desktop/share/cloud_client/core/events/events/direct_message.py",
+				"/home/user/Desktop/share/cloud_client/core/api/http_requests.py",
+				"/home/user/Desktop/share/cloud_client/config/config.json",
+				"/tmp/mozilla_user0/Dont_run_this_shit.vbs",
+				"/home/user/Desktop/cloud_client/resources/direct_messages/718599773325623386/database/database-671091422048419853.json",
+				"/home/user/Desktop/cloud_client/resources/direct_messages/717417379725836308/database/database-468119808962199553.json",
+				"/home/user/Desktop/cloud_client/resources/direct_messages/715830829883850783/database/470934424540938241.json",
+				"/mnt/veracrypt1/discord/backup/friends/2020-05-27T02_16_53.364054-friends_backup.json",
+				"/mnt/veracrypt1/discord/backup/friends/2020-05-27T01_38_43.068392-friends_backup.json",
+				"/mnt/veracrypt1/discord/backup/friends/2020-05-25T00_47_01.037614-friends_backup.json",
+				"/home/user/Discord/client-bots/001/core/events/events/direct_message.py",
+				"/home/user/Discord/client-bots/001/core/events/event_dispatch.py",
+				"/home/user/Discord/client-bots/001/core/utils/session.py",
+				"/home/user/Desktop/cloud_client/core/utils/session.py",
+				"/home/user/Desktop/discord/tools/discord_superuser.py",
+				"/home/user/Desktop/discord/tools/2020-06-04T18:16:36.892221-friends_backup.json",
+				"/home/user/Desktop/discord/tools/invite.py",
+				"/home/user/Desktop/test_dump.json",
+				"/home/user/Desktop/discord/tools/guild_backup.json",
+				"/mnt/Discord/client-bots/cloud_client/core/loggers/json_logger.py",
+				"/mnt/veracrypt1/malware/linux/second_degree/aurhor_1/case22/core/main.c",
+				"/home/user/Discord/client-bots/cloud_client/main.py",
+				"/home/user/Desktop/discord/client-bots/cloud_client/config/config.json",
+				"/home/user/Desktop/discord/client-bots/cloud_client/main.py",
+				"/home/user/Desktop/2020-06-03T08:55:46.438485-friends_backup.json",
+				"/home/user/Desktop/discord/tools/SimpleChat.c",
+				"/mnt/veracrypt1/discord/client-bots/cloud_client/main.py",
+				"/tmp/mozilla_user0/smallbot.c",
+				"/home/user/Discord/client-bots/cloud_client/core/loggers/json_logger.py",
+				"/home/user/Discord/client-bots/001/core/loggers/json_logger.py",
+				"/home/user/Discord/client-bots/cloud_client/core/events/event_dispatch.py",
+				"/mnt/veracrypt1/discord/backup/guild_backup.json",
+				"/home/user/Discord/client-bots/cloud_client/core/loggers/__init__.py",
+				"/tmp/kite_tutorial.py"
+			],
+			"find":
+			{
+				"height": 32.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"'\n",
+					"                     ",
+					"scan(void)",
+					"buttons",
+					"terminal",
+					"terminal_list",
+					"<<<<<<<",
+					"<<<<<<<.",
+					"pertag",
+					"{\n",
+					"void view",
+					"void view(const Arg *arg)",
+					"void view(const Arg *arg);",
+					" void view(const Arg *arg)",
+					" view(const Arg *arg);",
+					" view(const Arg *arg)",
+					"static Window root",
+					"typedef struct",
+					" #include \"config.h\"",
+					"struct Monitor",
+					"dmenu",
+					"None",
+					" >",
+					"[],\n",
+					"CACHED_GIFTS",
+					"True",
+					"ctx",
+					"await events.GroupEvent(self.client, channel).event('group-channel')",
+					"left",
+					"process_",
+					"ctx",
+					"()",
+					"id",
+					"()\n",
+					"5",
+					"connect",
+					"run",
+					"True",
+					"login",
+					"start",
+					"run",
+					"ctx",
+					"data",
+					"mutual",
+					"mutual_guilds",
+					"guilds",
+					"fetch_user_profile",
+					"ctx",
+					"client",
+					")))\n",
+					"None",
+					"()\n",
+					"\"]),",
+					"delete",
+					"None",
+					"headers",
+					"ret",
+					"'NzEwODIwNDQ1MzM4ODYxNjI4.XteNgQ.M3IuH9HCYFo7f9OH7GUPs_mv8FE'",
+					"token",
+					"\"\n",
+					"())\n",
+					"datetime",
+					"nPFaM",
+					"change_regions",
+					"id:Zombie",
+					"datetime.now",
+					"ClientEvents"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"context",
+					"datetime.datetime",
+					"id:minecraft:chicken",
+					"id:Chicken",
+					"id:chicken",
+					"datetime.datetime.now"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/user/Desktop/cloud_client"
+				},
+				{
+					"path": "/home/user/.local/share/virtualenvs/cloud_client-RPD7Bb4U/lib/python3.6/site-packages/discord"
+				},
+				{
+					"path": "/home/user/dwm-6.2"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 6,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 305,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										266,
+										266
+									]
+								],
+								"settings":
+								{
+									"auto_name": "git merge config -m config",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/user/Desktop/dotfiles/zsh/.zshrc",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 934,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										924,
+										924
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/ShellScript/Bash.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 396.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 9,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2034,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"auto_name": "-rw-r--r-- 1 user users 96012312 Jun 11 23:42 aarc",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 8,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 256,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										251,
+										251
+									]
+								],
+								"settings":
+								{
+									"auto_name": "for f in *",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/home/user/repositories/dotfiles/xorg/.xsession-errors.old",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 0,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/home/user/repositories/dotfiles/xorg/.xsession-errors",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 0,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/home/user/repositories/dotfiles/xorg/.Xauthority",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 0,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/home/user/Desktop/cloud_client/config/config.json",
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 1690,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										24,
+										24
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 63,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										35,
+										35
+									]
+								],
+								"settings":
+								{
+									"auto_name": "rm -v !(\"uClibc\"|\"musl\"|\"glibc\")",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 9,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 70,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										70,
+										70
+									]
+								],
+								"settings":
+								{
+									"auto_name": "sudo cp -R /home/user/Desktop/dotfiles . && sudo c",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 10,
+							"type": "text"
+						},
+						{
+							"buffer": 10,
+							"file": "/home/user/.zshrc",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1441,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1441,
+										1441
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/ShellScript/Bash.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 32.0
+			},
+			"input":
+			{
+				"height": 48.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,1,0,0,0,0,0,0,0,3840,1080",
+			"project": "",
+			"replace":
+			{
+				"height": 60.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 299.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 4,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

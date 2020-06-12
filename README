@@ -1,0 +1,15 @@
+CarlosForever's dotfiles
+--------------------
+
+Uses GNU Stow – https://www.gnu.org/software/stow/
+
+Usage:
+cd ~
+git clone https://github.com/CarlosForever/dotfiles.git
+cd dotfiles
+stow *
+
+Remove:
+cd ~/dotfiles
+stow -D *
+cd ~/ rm -rf dotfiles
