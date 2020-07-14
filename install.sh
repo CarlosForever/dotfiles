@@ -45,9 +45,25 @@ function install_dotfiles {
     stow *
 
 }
+
+function setup_profile {
+    if ! grep -q "if xset q &>/dev/null; then" "/etc/profile" ; then
+        echo -e "\nif xset q &>/dev/null; then" >> "/etc/profile"
+        echo -e "    xbindkeys &" >> "/etc/profile"
+        echo -e "    unclutter --timeout 5 -b" >> "/etc/profile"
+        echo -e "    echo 3 > /tmp/libinput_discrete_deltay_multiplier" >> "/etc/profile"
+        echo -e "    xautolock -detectsleep -time 5 -locker slock -notify 10 -notifier "notify-send --urgency=critical 'LOCKING screen in 10 seconds'" -corners ---- -cornersize 30 &" >> "/etc/profile"
+        echo -e "fi\n" >> "/etc/profile"
+    fi
+
+
+}
+
 function main {
     setup_consoles
+    setup_profile
     install_dotfiles
 }
 
 main
+
