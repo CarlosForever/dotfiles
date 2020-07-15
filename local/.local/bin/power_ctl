@@ -1,0 +1,11 @@
+#!/bin/sh
+terminal="urxvt"
+choices="logout\nlock\nreboot\npoweroff"
+chosen=$(echo -e "$choices" | dmenu -i)
+
+case "$chosen" in
+    logoff) pkill -KILL -u $LOGNAME ;;
+    lock) slock ;;
+    reboot) $terminal -e sudo reboot ;;
+    poweroff) $terminal -e sudo poweroff ;;
+esac

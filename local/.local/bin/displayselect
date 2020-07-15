@@ -1,0 +1,15 @@
+#!/bin/sh
+
+choices="laptop\nlaptop-dual\nVGA\nVGA-dual\nHDMI\nHDMI-dual\nManual selection"
+chosen=$(echo -e "$choices" | dmenu -i)
+
+case "$chosen" in
+    laptop ) notify-send "nonexistent" ;;
+    laptop-dual ) notify-send "nonexistent" ;;
+    VGA) notify-send "nonexistent" ;;
+    VGA-dual) notify-send "nonexistent" ;;
+    HDMI) notify-send "nonexistent" ;;
+    HDMI-dual) notify-send "nonexistent" ;;
+    "Manual selection") arandr
+
+esac

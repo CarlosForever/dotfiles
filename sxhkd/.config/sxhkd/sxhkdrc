@@ -1,0 +1,35 @@
+#---Volume Controll---#
+# Lower/higher Volume
+super + v + {Up, Down}
+    amixer -q -D pulse sset Master {5%+, 5%-}
+
+
+#---Application Launchers---#
+# Launch rofi
+super + grave
+    rofi -modi 'drun,run' -show drun -show-icons -markup -theme Monokai -rofi -lines 10 rofi rofi -width 55 -auto-select -async-pre-read 25 -case-sensitive &
+
+# Lauch dmenu_run
+alt + grave
+    dmenu_run
+
+# Spawn Terminal emulator
+super + Return
+    urxvt --geometry 100+100+200
+
+#---System Controll--#
+# Restart hotkey daemon
+super + shift + r
+    notify-send -t 1 "sxhkd restarted daemon" && killall -KILL sxhkd; sxhkd </dev/null >/dev/null 2>&1 &
+
+#Power Controll
+super + shift + x
+    $HOME/.local/bin/power_ctl
+
+#Display Selector
+super + F3
+    $HOME/.local/bin/display_select &
+
+# Window Switcher
+ctrl + Tab
+    rofi -show window -theme Monokai -lines 10 -width 70 -show-icons -matching glob -async-pre-read 25 -auto-select -m -5 &

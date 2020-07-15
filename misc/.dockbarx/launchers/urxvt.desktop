@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Name=The heart of linux
+Comment=An unicode capable rxvt clone
+Exec=urxvt --geometry 100+100+200
+Icon=utilities-terminal
+Terminal=false
+Type=Application
+Categories=System;TerminalEmulator;
+Path=
+StartupNotify=false
